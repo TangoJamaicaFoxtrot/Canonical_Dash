@@ -1,0 +1,1001 @@
+Salesperson_ID,Region,Product_Category,Sales_Quarter,Customer_Industry,Deal_Value_USD,Deal_Stage,Lead_Source,Customer_Satisfaction_Score,Time_to_Close_Days,Churn_Likelihood_Score,Renewal_Probability,Additional_Services_Sold,Touchpoints_Count,Engagement_Score
+NA3,North America,IoT and edge,Q1 2024,Finance,184163.91,Negotiation,Inbound,3,83,0.33,45.11,Yes,14,95
+APAC7,APAC,Developer Tools,Q2 2024,Retail,96643.21,Proposal Sent,Outbound,3,147,0.48,0.27,No,18,82
+APAC1,APAC,Private Cloud,Q4 2024,Manufacturing,84630.81,Closed-Won,Partner,1,26,0.32,92.01,Yes,36,43
+APAC3,APAC,Hardware,Q4 2024,Retail,196415.39,Closed-Won,Referral,2,32,0.63,79.89,Yes,38,69
+EMEA4,EMEA,Virtualisation,Q2 2024,Finance,227241.69,Closed-Lost,Inbound,5,180,0.42,97.17,No,8,57
+NA10,North America,IoT and edge,Q2 2024,Finance,159705.87,Closed-Won,Event,4,53,0.85,58.79,No,16,76
+EMEA3,EMEA,Virtualisation,Q4 2024,Retail,86920.58,Closed-Won,Referral,1,66,0.17,97.36,Yes,35,19
+APAC4,APAC,Public Cloud,Q4 2024,Manufacturing,125389.36,Proposal Sent,Inbound,4,62,0.34,11.63,Yes,40,69
+LATAM8,LATAM,Developer Tools,Q2 2024,Manufacturing,121057.81,Closed-Lost,Outbound,1,15,0.63,90.72,Yes,18,25
+EMEA5,EMEA,Public Cloud,Q1 2024,Healthcare,132581.99,Negotiation,Outbound,4,14,0.21,94.08,No,44,18
+NA1,North America,Developer Tools,Q3 2024,Tech,122165.07,Negotiation,Partner,5,82,0.8,61.39,Yes,47,55
+EMEA5,EMEA,Public Cloud,Q3 2024,Healthcare,20534.23,Negotiation,Outbound,1,97,0.75,29.78,No,29,2
+APAC10,APAC,IoT and edge,Q3 2024,Manufacturing,163324.99,Proposal Sent,Event,5,133,0.17,22.01,No,28,11
+APAC10,APAC,Virtualisation,Q4 2024,Retail,36781.36,Proposal Sent,Event,5,158,0.27,0.99,No,22,17
+NA1,North America,IoT and edge,Q2 2024,Tech,30011.56,Proposal Sent,Outbound,3,53,0.05,38.4,No,31,84
+NA4,North America,AI and Data,Q3 2024,Finance,44709.77,Negotiation,Event,4,122,0.02,33.65,No,16,24
+NA6,North America,Private Cloud,Q1 2024,Manufacturing,98624.79,Negotiation,Referral,1,108,0.75,6.8,Yes,32,18
+NA5,North America,Public Cloud,Q1 2024,Manufacturing,8395.16,Proposal Sent,Inbound,1,149,0.92,63.91,Yes,46,25
+EMEA2,EMEA,Kubernetes,Q2 2024,Retail,206918.76,Negotiation,Event,4,70,0.79,61.15,Yes,25,100
+EMEA9,EMEA,Ubuntu OS,Q3 2024,Tech,116047.31,Closed-Won,Event,4,125,0.85,18.21,No,11,46
+NA7,North America,IoT and edge,Q1 2024,Education,233042.55,Proposal Sent,Referral,4,84,0.98,72.72,No,16,4
+EMEA10,EMEA,AI and Data,Q2 2024,Retail,79932.58,Closed-Lost,Referral,3,180,0.2,26.08,Yes,38,5
+LATAM2,LATAM,Private Cloud,Q3 2024,Manufacturing,48050.05,Negotiation,Outbound,2,91,0.63,23.21,No,41,60
+APAC7,APAC,Developer Tools,Q4 2024,Education,183389.54,Closed-Won,Inbound,2,159,0.49,44.59,No,40,59
+APAC5,APAC,Ubuntu OS,Q3 2024,Tech,93029.04,Proposal Sent,Partner,4,27,0.62,88.31,No,25,35
+NA9,North America,AI and Data,Q4 2024,Finance,9995.82,Closed-Lost,Inbound,3,80,0.21,70.94,No,20,70
+APAC9,APAC,Hardware,Q2 2024,Finance,57098.16,Negotiation,Referral,5,156,0.58,26.17,No,30,77
+APAC8,APAC,IoT and edge,Q2 2024,Tech,245446.5,Proposal Sent,Inbound,2,27,0.31,81.63,Yes,2,46
+LATAM7,LATAM,Kubernetes,Q3 2024,Education,159585.0,Closed-Lost,Partner,4,180,0.1,99.82,No,32,65
+LATAM1,LATAM,Ubuntu OS,Q3 2024,Tech,105810.51,Proposal Sent,Partner,1,130,0.33,90.37,Yes,25,34
+NA3,North America,Private Cloud,Q3 2024,Education,21875.51,Closed-Lost,Outbound,4,148,0.9,96.68,Yes,37,80
+EMEA8,EMEA,Developer Tools,Q2 2024,Retail,180222.95,Closed-Won,Inbound,5,65,0.18,8.36,No,29,37
+APAC6,APAC,AI and Data,Q2 2024,Healthcare,2316.33,Closed-Won,Referral,2,82,0.1,54.8,Yes,6,22
+APAC7,APAC,Virtualisation,Q4 2024,Education,64537.22,Proposal Sent,Outbound,5,53,0.63,30.04,No,17,20
+APAC7,APAC,AI and Data,Q4 2024,Finance,162609.43,Proposal Sent,Referral,2,20,0.54,23.72,No,11,4
+APAC2,APAC,Ubuntu OS,Q3 2024,Retail,125602.9,Closed-Lost,Inbound,1,103,0.54,60.19,No,46,36
+NA9,North America,AI and Data,Q2 2024,Retail,146589.44,Closed-Won,Partner,2,68,0.87,22.37,Yes,25,52
+LATAM9,LATAM,Hardware,Q4 2024,Tech,118604.41,Closed-Lost,Partner,2,144,0.35,20.17,Yes,8,30
+EMEA3,EMEA,Private Cloud,Q2 2024,Manufacturing,179694.89,Proposal Sent,Outbound,1,172,0.66,5.34,Yes,22,56
+APAC9,APAC,Security and Support,Q1 2024,Healthcare,232938.65,Proposal Sent,Outbound,4,170,0.93,24.89,Yes,30,2
+APAC3,APAC,Hardware,Q4 2024,Finance,115293.51,Closed-Won,Partner,4,136,0.04,43.63,Yes,22,85
+NA8,North America,Developer Tools,Q3 2024,Manufacturing,38293.7,Closed-Lost,Referral,5,56,0.77,68.9,No,8,94
+NA5,North America,Kubernetes,Q4 2024,Retail,214370.68,Proposal Sent,Inbound,2,132,0.54,70.09,Yes,28,66
+NA1,North America,Private Cloud,Q4 2024,Healthcare,63337.15,Closed-Won,Referral,1,176,0.38,6.65,No,41,80
+EMEA1,EMEA,Public Cloud,Q2 2024,Manufacturing,230729.45,Closed-Lost,Inbound,2,159,0.74,49.57,No,26,55
+APAC7,APAC,Kubernetes,Q1 2024,Tech,64428.02,Closed-Lost,Event,4,25,0.22,37.94,No,24,37
+EMEA1,EMEA,Security and Support,Q2 2024,Retail,237726.85,Proposal Sent,Outbound,1,52,0.58,55.64,No,4,46
+NA4,North America,Kubernetes,Q2 2024,Finance,201644.01,Negotiation,Event,5,88,0.26,13.63,Yes,19,19
+APAC1,APAC,AI and Data,Q3 2024,Healthcare,29248.69,Negotiation,Outbound,3,74,0.3,1.63,Yes,47,70
+APAC2,APAC,Private Cloud,Q2 2024,Healthcare,28891.56,Negotiation,Event,4,127,0.98,71.09,Yes,43,14
+LATAM3,LATAM,IoT and edge,Q1 2024,Manufacturing,159607.7,Proposal Sent,Partner,3,89,0.72,43.47,No,41,2
+APAC1,APAC,Hardware,Q4 2024,Manufacturing,27639.58,Closed-Lost,Referral,3,85,0.32,25.56,No,32,93
+EMEA9,EMEA,Developer Tools,Q3 2024,Healthcare,46259.95,Closed-Lost,Partner,1,54,0.83,69.29,Yes,47,86
+EMEA10,EMEA,IoT and edge,Q1 2024,Tech,218914.23,Closed-Won,Outbound,4,40,0.57,46.35,No,48,92
+EMEA8,EMEA,Kubernetes,Q1 2024,Finance,25080.5,Negotiation,Outbound,1,33,0.67,0.35,Yes,49,14
+LATAM4,LATAM,Public Cloud,Q3 2024,Manufacturing,135813.45,Proposal Sent,Event,1,131,0.21,38.73,No,2,24
+NA7,North America,Kubernetes,Q2 2024,Manufacturing,127583.22,Negotiation,Outbound,4,70,0.16,99.47,Yes,4,23
+EMEA7,EMEA,Security and Support,Q1 2024,Manufacturing,28640.72,Proposal Sent,Outbound,3,145,0.98,64.37,No,49,8
+NA1,North America,Kubernetes,Q1 2024,Education,154216.48,Negotiation,Partner,2,46,0.03,84.27,Yes,4,71
+APAC7,APAC,Public Cloud,Q3 2024,Tech,170776.33,Closed-Won,Referral,1,27,0.47,84.94,No,1,79
+EMEA2,EMEA,Private Cloud,Q1 2024,Retail,83215.59,Closed-Won,Outbound,2,21,0.29,91.67,Yes,5,77
+NA8,North America,Kubernetes,Q2 2024,Retail,128657.29,Closed-Lost,Outbound,1,32,0.01,43.79,Yes,23,70
+NA3,North America,Developer Tools,Q2 2024,Education,217385.77,Negotiation,Outbound,2,109,0.64,22.13,Yes,47,94
+LATAM7,LATAM,Public Cloud,Q3 2024,Education,161082.99,Closed-Won,Partner,2,128,0.22,92.25,No,34,5
+NA6,North America,Virtualisation,Q2 2024,Retail,5477.99,Closed-Lost,Partner,3,127,0.62,67.55,No,34,10
+LATAM3,LATAM,Security and Support,Q3 2024,Education,18754.81,Proposal Sent,Outbound,2,31,0.01,36.29,Yes,28,27
+LATAM8,LATAM,Kubernetes,Q3 2024,Manufacturing,136012.38,Proposal Sent,Outbound,5,60,0.66,37.94,No,39,9
+NA8,North America,Public Cloud,Q2 2024,Healthcare,122272.06,Proposal Sent,Inbound,1,54,0.72,12.87,No,44,42
+APAC4,APAC,Virtualisation,Q4 2024,Tech,204952.45,Proposal Sent,Outbound,5,120,0.16,45.96,No,47,36
+APAC8,APAC,Developer Tools,Q3 2024,Healthcare,57398.94,Negotiation,Partner,4,114,0.53,94.67,No,38,38
+APAC10,APAC,Security and Support,Q3 2024,Tech,170634.25,Closed-Lost,Referral,2,64,0.08,11.97,Yes,44,3
+APAC1,APAC,Private Cloud,Q2 2024,Healthcare,182759.35,Negotiation,Referral,3,42,0.62,43.0,Yes,47,87
+NA10,North America,Developer Tools,Q3 2024,Tech,228339.19,Negotiation,Event,3,43,0.33,59.22,No,35,54
+APAC5,APAC,IoT and edge,Q4 2024,Retail,204633.18,Negotiation,Partner,4,19,0.57,11.28,No,50,47
+EMEA9,EMEA,Public Cloud,Q3 2024,Manufacturing,106925.81,Closed-Won,Referral,1,33,0.74,16.13,No,16,1
+NA8,North America,Hardware,Q4 2024,Retail,116076.69,Negotiation,Inbound,1,100,0.21,54.95,Yes,46,32
+NA3,North America,Ubuntu OS,Q3 2024,Finance,1727.26,Closed-Lost,Partner,5,126,0.87,47.3,Yes,6,63
+LATAM5,LATAM,Virtualisation,Q2 2024,Retail,120205.93,Closed-Lost,Referral,2,171,0.22,18.05,No,48,5
+NA1,North America,IoT and edge,Q1 2024,Healthcare,177283.63,Negotiation,Referral,4,35,0.59,88.42,No,24,14
+EMEA5,EMEA,Virtualisation,Q2 2024,Retail,194768.33,Negotiation,Outbound,5,124,0.36,13.91,Yes,7,51
+EMEA8,EMEA,Virtualisation,Q1 2024,Retail,20083.11,Closed-Won,Partner,1,123,0.39,38.1,No,27,94
+APAC10,APAC,Developer Tools,Q1 2024,Tech,36062.97,Negotiation,Inbound,4,134,0.37,62.35,No,20,79
+NA10,North America,Developer Tools,Q3 2024,Manufacturing,6578.76,Proposal Sent,Event,4,139,0.77,56.89,Yes,17,89
+EMEA8,EMEA,Private Cloud,Q3 2024,Retail,155236.54,Closed-Won,Partner,4,127,0.21,38.99,Yes,39,92
+LATAM2,LATAM,Developer Tools,Q1 2024,Finance,108650.1,Closed-Lost,Outbound,3,44,0.55,72.82,Yes,47,98
+LATAM2,LATAM,Hardware,Q2 2024,Manufacturing,218151.48,Proposal Sent,Partner,2,106,0.22,12.92,Yes,30,75
+NA8,North America,Private Cloud,Q2 2024,Tech,61893.22,Closed-Won,Referral,4,66,0.41,8.66,Yes,19,73
+EMEA9,EMEA,Developer Tools,Q2 2024,Education,181660.16,Closed-Lost,Event,1,42,0.7,78.89,Yes,5,82
+APAC3,APAC,Developer Tools,Q2 2024,Healthcare,163959.71,Closed-Won,Partner,3,122,0.42,34.96,No,26,17
+APAC3,APAC,AI and Data,Q1 2024,Tech,42523.4,Closed-Won,Event,4,166,0.5,75.54,Yes,48,22
+APAC1,APAC,Hardware,Q3 2024,Finance,165065.59,Negotiation,Event,4,104,0.2,74.65,No,45,73
+NA4,North America,Ubuntu OS,Q1 2024,Finance,77113.02,Closed-Won,Partner,2,27,0.05,15.19,No,39,3
+APAC6,APAC,Developer Tools,Q1 2024,Tech,221526.96,Closed-Lost,Partner,3,90,0.02,55.98,Yes,47,58
+APAC2,APAC,Developer Tools,Q3 2024,Tech,100947.92,Closed-Lost,Referral,4,105,0.81,28.07,Yes,26,61
+EMEA2,EMEA,Ubuntu OS,Q3 2024,Retail,61685.59,Negotiation,Partner,5,46,0.7,13.84,No,9,18
+APAC4,APAC,IoT and edge,Q2 2024,Manufacturing,69715.49,Closed-Lost,Event,3,127,0.95,34.93,Yes,45,35
+EMEA1,EMEA,Developer Tools,Q2 2024,Education,82713.54,Negotiation,Inbound,2,159,0.99,47.63,No,22,64
+EMEA4,EMEA,Developer Tools,Q2 2024,Tech,163016.92,Negotiation,Inbound,5,162,0.9,28.78,Yes,2,61
+LATAM3,LATAM,Kubernetes,Q3 2024,Tech,200545.0,Closed-Won,Event,5,125,0.34,90.1,Yes,5,60
+NA2,North America,Private Cloud,Q1 2024,Finance,140747.37,Closed-Lost,Partner,4,90,0.14,95.87,Yes,13,47
+NA3,North America,Security and Support,Q4 2024,Retail,75667.08,Proposal Sent,Partner,2,170,0.39,13.1,No,24,74
+LATAM7,LATAM,Security and Support,Q2 2024,Manufacturing,217038.51,Proposal Sent,Event,5,140,0.27,97.82,No,50,78
+EMEA7,EMEA,Private Cloud,Q2 2024,Education,40714.62,Proposal Sent,Inbound,5,157,0.04,9.15,Yes,38,33
+EMEA8,EMEA,Virtualisation,Q2 2024,Tech,164442.0,Proposal Sent,Referral,5,32,0.48,90.78,Yes,39,77
+APAC10,APAC,IoT and edge,Q2 2024,Manufacturing,184751.31,Closed-Won,Partner,1,59,0.79,92.18,Yes,3,56
+LATAM10,LATAM,Public Cloud,Q4 2024,Manufacturing,135344.51,Closed-Won,Inbound,1,147,0.13,4.95,Yes,31,63
+APAC6,APAC,Ubuntu OS,Q3 2024,Retail,146441.88,Negotiation,Referral,5,122,0.38,78.24,No,30,71
+EMEA6,EMEA,Ubuntu OS,Q2 2024,Tech,189760.63,Negotiation,Referral,4,145,0.3,57.69,No,7,31
+APAC6,APAC,AI and Data,Q2 2024,Healthcare,115641.38,Closed-Won,Referral,2,35,0.55,91.23,No,24,52
+NA9,North America,Security and Support,Q1 2024,Healthcare,24472.48,Proposal Sent,Partner,3,146,0.84,18.05,No,23,29
+LATAM7,LATAM,IoT and edge,Q2 2024,Manufacturing,225284.81,Negotiation,Outbound,4,82,0.1,89.76,Yes,5,56
+EMEA1,EMEA,AI and Data,Q4 2024,Healthcare,197805.76,Proposal Sent,Outbound,2,103,0.01,22.09,No,44,58
+EMEA3,EMEA,Hardware,Q3 2024,Manufacturing,157863.07,Proposal Sent,Outbound,3,153,0.25,81.61,No,38,98
+NA7,North America,AI and Data,Q3 2024,Manufacturing,158218.34,Closed-Won,Inbound,5,99,0.96,53.66,No,48,96
+LATAM5,LATAM,Hardware,Q3 2024,Tech,217943.19,Closed-Lost,Event,4,27,0.83,18.49,Yes,39,40
+LATAM4,LATAM,Virtualisation,Q2 2024,Finance,46873.61,Closed-Lost,Outbound,2,19,0.25,28.16,No,1,6
+LATAM1,LATAM,Virtualisation,Q4 2024,Education,217788.65,Closed-Lost,Outbound,2,45,0.88,1.21,No,3,65
+LATAM7,LATAM,Ubuntu OS,Q4 2024,Tech,172751.53,Proposal Sent,Outbound,4,158,0.25,6.29,Yes,4,20
+EMEA2,EMEA,Private Cloud,Q2 2024,Education,195901.22,Closed-Lost,Event,4,166,0.33,47.17,Yes,15,69
+APAC10,APAC,Virtualisation,Q1 2024,Healthcare,189509.21,Closed-Won,Partner,1,165,0.42,90.09,No,14,51
+EMEA4,EMEA,Ubuntu OS,Q4 2024,Education,112615.19,Closed-Won,Inbound,4,97,0.83,29.95,Yes,26,23
+APAC9,APAC,IoT and edge,Q1 2024,Healthcare,60508.86,Proposal Sent,Partner,2,106,0.18,96.26,No,24,12
+APAC2,APAC,Ubuntu OS,Q3 2024,Finance,98974.4,Closed-Won,Referral,3,158,0.31,0.7,Yes,27,90
+LATAM4,LATAM,Public Cloud,Q1 2024,Healthcare,145615.85,Negotiation,Inbound,4,123,0.37,99.58,Yes,27,67
+APAC7,APAC,Virtualisation,Q2 2024,Retail,79840.97,Proposal Sent,Inbound,1,98,0.54,99.09,Yes,5,31
+EMEA4,EMEA,Ubuntu OS,Q1 2024,Tech,156974.91,Proposal Sent,Outbound,4,10,0.98,3.49,Yes,49,24
+EMEA7,EMEA,AI and Data,Q1 2024,Manufacturing,90383.18,Closed-Won,Outbound,2,16,0.92,3.07,No,21,53
+EMEA2,EMEA,Hardware,Q2 2024,Education,88961.09,Proposal Sent,Partner,5,149,0.68,55.9,Yes,18,3
+NA10,North America,Public Cloud,Q2 2024,Retail,161254.72,Closed-Won,Referral,1,177,0.12,98.65,Yes,3,93
+NA8,North America,AI and Data,Q4 2024,Education,223743.16,Proposal Sent,Event,4,122,0.19,61.18,No,21,78
+EMEA9,EMEA,IoT and edge,Q1 2024,Healthcare,12716.67,Negotiation,Outbound,4,100,0.15,57.3,Yes,41,95
+APAC10,APAC,Public Cloud,Q3 2024,Education,32457.45,Closed-Lost,Event,1,24,0.22,50.48,No,27,54
+NA3,North America,Security and Support,Q3 2024,Education,131394.78,Closed-Won,Outbound,2,177,0.27,50.1,No,20,1
+NA5,North America,Public Cloud,Q2 2024,Tech,94976.39,Closed-Lost,Outbound,3,18,0.17,49.19,Yes,35,77
+APAC1,APAC,Virtualisation,Q2 2024,Finance,74565.97,Negotiation,Inbound,3,103,0.37,98.25,Yes,8,65
+LATAM8,LATAM,Virtualisation,Q2 2024,Manufacturing,6208.46,Negotiation,Event,3,102,0.7,4.61,No,20,97
+APAC2,APAC,Developer Tools,Q4 2024,Finance,72700.15,Negotiation,Outbound,3,26,0.32,28.44,No,20,52
+APAC1,APAC,IoT and edge,Q1 2024,Tech,210073.1,Proposal Sent,Partner,3,52,0.09,3.48,Yes,35,5
+LATAM8,LATAM,Ubuntu OS,Q1 2024,Education,127458.1,Closed-Won,Outbound,1,45,0.74,86.91,No,44,40
+LATAM10,LATAM,Ubuntu OS,Q4 2024,Education,47480.63,Proposal Sent,Event,5,98,0.4,18.39,Yes,13,69
+LATAM6,LATAM,IoT and edge,Q3 2024,Tech,133242.35,Proposal Sent,Inbound,4,174,0.46,20.38,Yes,22,27
+APAC3,APAC,Hardware,Q2 2024,Healthcare,235081.68,Proposal Sent,Outbound,5,85,0.81,32.52,No,14,59
+LATAM5,LATAM,Ubuntu OS,Q1 2024,Healthcare,212642.77,Negotiation,Outbound,4,148,0.29,98.84,Yes,34,34
+APAC9,APAC,Virtualisation,Q3 2024,Finance,211787.02,Negotiation,Referral,3,124,0.05,6.97,No,3,12
+EMEA1,EMEA,Security and Support,Q1 2024,Education,187535.95,Negotiation,Referral,3,53,0.37,61.1,No,16,47
+EMEA10,EMEA,IoT and edge,Q1 2024,Finance,116829.28,Closed-Won,Referral,4,86,0.84,54.14,Yes,40,57
+LATAM8,LATAM,Ubuntu OS,Q3 2024,Healthcare,147895.88,Closed-Won,Inbound,4,92,0.13,58.49,Yes,45,62
+LATAM3,LATAM,Developer Tools,Q4 2024,Education,28159.05,Proposal Sent,Event,3,118,0.26,44.61,Yes,34,11
+EMEA4,EMEA,Virtualisation,Q3 2024,Education,27518.14,Closed-Won,Event,4,53,0.28,0.49,No,1,91
+NA3,North America,Kubernetes,Q4 2024,Retail,107978.67,Proposal Sent,Inbound,4,58,0.64,38.38,No,46,89
+NA5,North America,AI and Data,Q1 2024,Tech,249128.35,Closed-Lost,Referral,2,60,0.26,68.38,No,37,59
+APAC4,APAC,Private Cloud,Q1 2024,Finance,155179.78,Proposal Sent,Partner,5,110,0.7,45.09,No,12,98
+EMEA10,EMEA,Ubuntu OS,Q3 2024,Healthcare,184316.98,Negotiation,Inbound,5,132,0.52,86.35,Yes,18,63
+APAC10,APAC,Kubernetes,Q1 2024,Education,80897.46,Closed-Lost,Partner,1,69,0.46,21.51,Yes,22,8
+APAC5,APAC,Kubernetes,Q1 2024,Healthcare,59055.47,Proposal Sent,Referral,5,157,0.64,73.13,No,25,9
+APAC3,APAC,Public Cloud,Q1 2024,Manufacturing,223435.52,Closed-Won,Inbound,4,62,0.8,0.55,No,17,77
+NA2,North America,IoT and edge,Q4 2024,Healthcare,205097.35,Closed-Lost,Partner,1,145,0.36,3.06,No,10,39
+APAC5,APAC,Security and Support,Q1 2024,Education,53885.1,Closed-Lost,Event,1,117,0.98,71.87,No,28,73
+EMEA9,EMEA,Virtualisation,Q2 2024,Manufacturing,105111.01,Closed-Lost,Outbound,2,13,0.86,56.89,Yes,49,31
+NA8,North America,Public Cloud,Q2 2024,Manufacturing,235960.18,Negotiation,Event,5,12,0.53,66.4,No,47,28
+LATAM8,LATAM,Ubuntu OS,Q2 2024,Retail,240046.73,Proposal Sent,Partner,2,73,0.46,86.47,Yes,10,17
+APAC1,APAC,Public Cloud,Q1 2024,Tech,47240.11,Negotiation,Referral,5,30,0.82,11.6,Yes,40,14
+APAC7,APAC,Developer Tools,Q2 2024,Tech,18013.19,Negotiation,Outbound,5,20,0.2,22.6,No,10,96
+NA3,North America,Public Cloud,Q2 2024,Healthcare,208033.36,Closed-Won,Event,1,176,0.94,68.36,Yes,2,47
+NA10,North America,Ubuntu OS,Q1 2024,Retail,210747.24,Negotiation,Inbound,3,151,0.4,30.57,No,2,39
+NA1,North America,IoT and edge,Q1 2024,Finance,196410.5,Closed-Won,Referral,2,169,0.56,80.67,Yes,13,23
+LATAM9,LATAM,IoT and edge,Q1 2024,Retail,212065.28,Closed-Lost,Inbound,3,159,0.69,58.61,No,50,13
+APAC2,APAC,Virtualisation,Q4 2024,Tech,239405.81,Proposal Sent,Outbound,4,51,0.95,2.65,Yes,41,71
+APAC9,APAC,Security and Support,Q4 2024,Finance,1984.98,Closed-Lost,Referral,3,173,0.8,47.79,Yes,43,86
+EMEA2,EMEA,Private Cloud,Q3 2024,Finance,11359.29,Closed-Won,Referral,5,73,0.31,25.73,No,19,84
+NA10,North America,Security and Support,Q4 2024,Education,148648.6,Negotiation,Inbound,3,58,0.85,7.94,Yes,7,19
+EMEA9,EMEA,IoT and edge,Q3 2024,Healthcare,96450.4,Proposal Sent,Referral,4,46,0.87,48.47,Yes,49,39
+LATAM4,LATAM,Public Cloud,Q2 2024,Retail,184074.49,Closed-Won,Outbound,3,130,0.77,99.49,No,36,3
+LATAM10,LATAM,AI and Data,Q1 2024,Tech,197346.27,Closed-Lost,Outbound,2,73,0.06,76.31,No,26,12
+EMEA10,EMEA,Public Cloud,Q3 2024,Retail,118552.48,Closed-Won,Partner,5,106,0.47,44.02,No,13,18
+EMEA9,EMEA,AI and Data,Q2 2024,Tech,80257.11,Negotiation,Event,5,106,0.79,36.4,No,39,78
+APAC9,APAC,Ubuntu OS,Q4 2024,Tech,195428.76,Negotiation,Partner,5,92,0.52,13.33,No,47,33
+NA2,North America,Security and Support,Q2 2024,Healthcare,195890.41,Proposal Sent,Inbound,3,113,0.62,55.66,Yes,23,77
+NA8,North America,IoT and edge,Q2 2024,Tech,33916.1,Negotiation,Event,2,43,0.74,77.05,Yes,44,46
+EMEA3,EMEA,Developer Tools,Q3 2024,Tech,31547.84,Closed-Won,Inbound,1,82,0.99,64.47,Yes,22,60
+APAC7,APAC,Security and Support,Q2 2024,Healthcare,217177.72,Closed-Won,Event,5,148,0.32,44.78,No,19,39
+NA8,North America,Developer Tools,Q2 2024,Tech,72930.01,Closed-Won,Referral,5,167,0.38,88.74,Yes,2,40
+LATAM6,LATAM,AI and Data,Q4 2024,Tech,124545.1,Proposal Sent,Outbound,4,158,0.76,83.13,No,15,77
+LATAM7,LATAM,Ubuntu OS,Q3 2024,Manufacturing,44441.45,Closed-Won,Event,3,55,0.52,56.68,Yes,15,33
+LATAM8,LATAM,IoT and edge,Q4 2024,Finance,91601.5,Negotiation,Outbound,2,39,0.0,72.0,No,48,31
+APAC2,APAC,Ubuntu OS,Q4 2024,Tech,60049.0,Closed-Lost,Event,4,100,0.79,23.15,No,30,88
+LATAM3,LATAM,IoT and edge,Q2 2024,Healthcare,150312.9,Closed-Won,Partner,3,149,0.91,75.3,Yes,5,51
+LATAM6,LATAM,IoT and edge,Q1 2024,Healthcare,116536.32,Closed-Lost,Inbound,3,39,0.81,1.93,Yes,34,48
+LATAM2,LATAM,Ubuntu OS,Q1 2024,Healthcare,17212.46,Negotiation,Event,1,11,0.41,58.94,Yes,24,22
+EMEA3,EMEA,Developer Tools,Q3 2024,Healthcare,232976.37,Closed-Lost,Referral,3,125,0.05,83.17,No,42,47
+APAC4,APAC,Public Cloud,Q4 2024,Tech,100420.12,Closed-Lost,Event,4,115,0.91,27.28,Yes,35,57
+EMEA7,EMEA,AI and Data,Q3 2024,Retail,136729.16,Negotiation,Referral,5,45,0.25,51.16,Yes,49,57
+EMEA5,EMEA,AI and Data,Q2 2024,Finance,9264.69,Negotiation,Partner,1,179,0.14,15.07,Yes,23,52
+NA6,North America,Security and Support,Q4 2024,Tech,131403.33,Proposal Sent,Inbound,3,31,0.46,2.31,Yes,31,95
+APAC2,APAC,Developer Tools,Q2 2024,Manufacturing,108601.07,Closed-Won,Referral,4,174,0.87,2.73,Yes,19,10
+LATAM1,LATAM,Security and Support,Q1 2024,Tech,201532.94,Negotiation,Outbound,5,118,0.83,48.56,No,46,77
+EMEA3,EMEA,IoT and edge,Q3 2024,Education,13473.58,Negotiation,Event,2,123,0.21,3.86,Yes,6,72
+EMEA6,EMEA,AI and Data,Q2 2024,Finance,124887.11,Negotiation,Inbound,5,160,0.73,28.66,Yes,23,3
+APAC9,APAC,Kubernetes,Q1 2024,Education,73853.64,Closed-Won,Outbound,5,45,0.37,74.77,No,49,75
+NA5,North America,Developer Tools,Q3 2024,Manufacturing,145383.88,Negotiation,Event,5,146,0.18,88.26,Yes,30,34
+EMEA9,EMEA,AI and Data,Q2 2024,Education,196032.68,Proposal Sent,Event,3,77,0.86,80.0,Yes,19,100
+LATAM10,LATAM,Public Cloud,Q4 2024,Finance,95178.86,Proposal Sent,Outbound,1,132,0.03,52.25,Yes,29,42
+EMEA6,EMEA,Virtualisation,Q1 2024,Finance,10737.64,Closed-Lost,Event,2,66,0.11,76.91,No,34,83
+EMEA8,EMEA,Hardware,Q4 2024,Education,66740.8,Closed-Lost,Event,5,176,0.37,67.77,No,18,30
+LATAM1,LATAM,AI and Data,Q4 2024,Manufacturing,46460.15,Negotiation,Referral,5,125,0.0,73.77,Yes,15,58
+EMEA4,EMEA,Developer Tools,Q4 2024,Manufacturing,21821.04,Negotiation,Inbound,2,167,0.43,12.94,No,32,60
+NA3,North America,AI and Data,Q4 2024,Tech,154671.58,Negotiation,Referral,2,153,0.09,70.09,No,4,26
+LATAM2,LATAM,IoT and edge,Q4 2024,Education,139786.17,Closed-Won,Event,4,55,0.57,15.36,Yes,44,47
+APAC10,APAC,Ubuntu OS,Q3 2024,Retail,62324.32,Closed-Won,Inbound,5,174,0.42,24.9,No,16,15
+EMEA2,EMEA,Hardware,Q3 2024,Finance,185233.14,Negotiation,Partner,2,82,0.19,62.76,Yes,37,85
+LATAM6,LATAM,Virtualisation,Q4 2024,Finance,236890.73,Proposal Sent,Inbound,4,131,0.93,64.67,No,11,76
+APAC10,APAC,AI and Data,Q1 2024,Healthcare,57110.38,Negotiation,Partner,3,74,0.14,15.96,Yes,47,71
+NA5,North America,Public Cloud,Q1 2024,Healthcare,106455.87,Closed-Won,Referral,1,39,0.75,51.86,No,23,19
+LATAM4,LATAM,AI and Data,Q3 2024,Tech,139660.22,Negotiation,Referral,3,51,0.01,0.53,No,17,3
+EMEA7,EMEA,Security and Support,Q1 2024,Finance,49861.03,Closed-Lost,Outbound,4,56,0.7,99.99,No,32,12
+NA3,North America,Public Cloud,Q3 2024,Finance,159690.41,Proposal Sent,Inbound,2,81,0.56,75.82,No,26,17
+APAC1,APAC,Virtualisation,Q2 2024,Healthcare,30678.88,Closed-Won,Outbound,5,74,0.9,46.06,Yes,27,41
+NA2,North America,Security and Support,Q3 2024,Tech,149912.51,Closed-Won,Partner,1,118,0.43,19.54,Yes,4,43
+EMEA5,EMEA,Private Cloud,Q1 2024,Tech,25437.65,Closed-Won,Partner,1,69,0.46,1.53,No,1,26
+NA4,North America,Developer Tools,Q1 2024,Retail,36191.55,Closed-Lost,Outbound,5,53,0.77,67.84,Yes,48,37
+EMEA1,EMEA,Virtualisation,Q4 2024,Finance,220321.5,Closed-Lost,Inbound,2,168,0.17,90.3,No,11,15
+EMEA4,EMEA,Hardware,Q3 2024,Finance,226405.32,Closed-Won,Outbound,3,46,0.6,27.6,Yes,18,100
+NA6,North America,Kubernetes,Q2 2024,Manufacturing,221992.45,Closed-Won,Referral,4,66,0.78,97.95,Yes,23,73
+LATAM1,LATAM,Ubuntu OS,Q3 2024,Manufacturing,65515.95,Closed-Won,Partner,3,73,0.83,0.32,Yes,48,50
+NA9,North America,Developer Tools,Q3 2024,Healthcare,243691.61,Negotiation,Outbound,2,179,0.85,22.33,Yes,46,4
+LATAM3,LATAM,Virtualisation,Q2 2024,Finance,208120.04,Closed-Won,Outbound,1,57,0.42,99.07,Yes,18,31
+NA2,North America,IoT and edge,Q4 2024,Education,216472.59,Closed-Lost,Partner,1,126,0.05,1.92,Yes,47,63
+EMEA7,EMEA,Ubuntu OS,Q2 2024,Finance,179172.98,Closed-Lost,Inbound,1,80,0.87,2.85,Yes,1,7
+EMEA8,EMEA,Private Cloud,Q3 2024,Education,215671.53,Closed-Won,Partner,1,33,0.25,8.04,No,46,41
+NA1,North America,Developer Tools,Q4 2024,Retail,94874.29,Proposal Sent,Event,1,105,0.41,40.28,Yes,22,54
+APAC1,APAC,Public Cloud,Q1 2024,Education,190041.1,Negotiation,Referral,5,139,0.65,65.97,Yes,50,28
+EMEA10,EMEA,Hardware,Q4 2024,Education,197444.72,Closed-Lost,Partner,1,160,0.43,78.22,No,34,20
+EMEA6,EMEA,Hardware,Q1 2024,Finance,66572.72,Negotiation,Inbound,5,169,0.32,10.1,Yes,21,26
+NA10,North America,Security and Support,Q1 2024,Tech,121929.0,Proposal Sent,Inbound,4,66,0.93,79.52,No,2,1
+NA2,North America,AI and Data,Q1 2024,Education,56182.28,Negotiation,Outbound,5,67,0.9,69.02,Yes,4,4
+APAC10,APAC,Private Cloud,Q3 2024,Tech,140977.92,Proposal Sent,Outbound,5,124,0.37,14.32,Yes,1,13
+APAC6,APAC,IoT and edge,Q2 2024,Education,90328.44,Negotiation,Event,3,44,0.78,0.8,No,47,79
+NA3,North America,AI and Data,Q1 2024,Tech,87709.93,Negotiation,Referral,5,96,0.5,0.61,No,41,23
+LATAM8,LATAM,Public Cloud,Q4 2024,Manufacturing,92527.37,Closed-Won,Inbound,3,132,0.17,71.96,Yes,7,10
+EMEA9,EMEA,Virtualisation,Q3 2024,Manufacturing,10578.26,Closed-Lost,Event,3,30,0.09,63.68,No,14,64
+LATAM6,LATAM,IoT and edge,Q1 2024,Finance,57162.63,Negotiation,Inbound,5,78,0.41,42.04,No,46,41
+LATAM4,LATAM,Ubuntu OS,Q1 2024,Retail,51853.21,Closed-Lost,Referral,5,16,0.97,0.85,Yes,33,86
+EMEA2,EMEA,Public Cloud,Q4 2024,Tech,19996.29,Closed-Won,Partner,2,74,0.91,13.35,Yes,29,93
+APAC5,APAC,Kubernetes,Q3 2024,Healthcare,230553.46,Closed-Won,Event,4,92,0.47,20.9,No,26,40
+LATAM5,LATAM,IoT and edge,Q3 2024,Healthcare,102382.68,Proposal Sent,Outbound,2,175,0.24,84.6,No,27,97
+APAC3,APAC,Kubernetes,Q3 2024,Manufacturing,187776.42,Negotiation,Inbound,5,73,0.25,18.74,Yes,4,100
+LATAM4,LATAM,Ubuntu OS,Q1 2024,Finance,211520.64,Closed-Lost,Event,1,141,0.68,86.37,No,50,69
+NA10,North America,Security and Support,Q4 2024,Manufacturing,143364.95,Proposal Sent,Event,2,102,0.75,0.48,No,19,74
+APAC4,APAC,IoT and edge,Q3 2024,Tech,181651.08,Closed-Lost,Inbound,5,67,0.7,51.01,Yes,21,3
+APAC10,APAC,Hardware,Q1 2024,Manufacturing,108991.38,Proposal Sent,Partner,4,144,0.1,72.41,Yes,11,60
+APAC8,APAC,Kubernetes,Q1 2024,Manufacturing,26766.08,Proposal Sent,Outbound,3,94,0.03,42.98,No,1,17
+EMEA6,EMEA,Virtualisation,Q1 2024,Education,223951.76,Proposal Sent,Inbound,5,15,0.43,88.82,No,35,69
+LATAM6,LATAM,Developer Tools,Q4 2024,Healthcare,17202.94,Proposal Sent,Referral,5,30,0.53,95.95,Yes,38,20
+LATAM4,LATAM,AI and Data,Q1 2024,Manufacturing,72774.13,Proposal Sent,Partner,5,53,0.34,54.61,No,27,20
+APAC7,APAC,Security and Support,Q2 2024,Tech,157482.16,Negotiation,Partner,3,66,0.24,75.96,No,45,23
+APAC6,APAC,Private Cloud,Q4 2024,Finance,33666.34,Closed-Won,Referral,1,121,0.73,44.82,Yes,47,83
+LATAM8,LATAM,AI and Data,Q3 2024,Healthcare,43592.88,Negotiation,Referral,2,28,0.77,15.56,Yes,36,75
+LATAM9,LATAM,IoT and edge,Q1 2024,Healthcare,235111.76,Negotiation,Inbound,3,95,0.66,95.74,No,25,73
+APAC3,APAC,Private Cloud,Q4 2024,Finance,152821.54,Closed-Lost,Event,3,119,0.96,92.8,Yes,2,84
+LATAM2,LATAM,Developer Tools,Q4 2024,Retail,204550.63,Negotiation,Inbound,2,41,0.52,79.51,No,3,79
+EMEA5,EMEA,Hardware,Q1 2024,Healthcare,146765.06,Proposal Sent,Event,4,163,0.13,67.55,Yes,35,12
+LATAM8,LATAM,Private Cloud,Q4 2024,Manufacturing,215754.18,Closed-Lost,Partner,3,152,0.17,86.86,No,27,80
+EMEA2,EMEA,IoT and edge,Q3 2024,Education,2996.41,Closed-Won,Event,3,75,0.42,55.81,No,48,1
+LATAM6,LATAM,Virtualisation,Q2 2024,Education,181104.64,Negotiation,Outbound,2,47,0.82,7.8,Yes,50,97
+LATAM2,LATAM,Kubernetes,Q2 2024,Retail,181885.79,Negotiation,Event,5,141,0.44,79.69,Yes,38,81
+LATAM3,LATAM,AI and Data,Q1 2024,Healthcare,219538.18,Negotiation,Outbound,4,11,0.79,64.56,No,34,34
+NA2,North America,Security and Support,Q4 2024,Tech,147242.57,Closed-Lost,Outbound,3,60,0.63,78.29,Yes,23,62
+EMEA9,EMEA,Private Cloud,Q3 2024,Manufacturing,94777.92,Negotiation,Event,1,172,0.16,93.94,No,37,28
+APAC8,APAC,Hardware,Q4 2024,Education,26248.29,Negotiation,Partner,2,81,0.69,11.98,Yes,13,78
+EMEA1,EMEA,Ubuntu OS,Q2 2024,Education,210783.01,Closed-Won,Referral,2,48,0.3,94.12,Yes,37,30
+APAC5,APAC,IoT and edge,Q3 2024,Tech,127443.45,Proposal Sent,Partner,4,22,0.5,41.44,No,29,39
+NA7,North America,Developer Tools,Q4 2024,Finance,167417.9,Closed-Lost,Partner,1,123,0.18,31.46,Yes,15,44
+APAC3,APAC,Ubuntu OS,Q1 2024,Manufacturing,139763.9,Closed-Lost,Referral,3,71,0.03,17.52,Yes,30,70
+APAC7,APAC,IoT and edge,Q3 2024,Retail,94311.95,Negotiation,Inbound,4,150,0.32,15.78,Yes,2,2
+EMEA10,EMEA,IoT and edge,Q1 2024,Manufacturing,110775.92,Closed-Won,Partner,5,177,0.46,92.6,Yes,27,67
+NA9,North America,Developer Tools,Q1 2024,Healthcare,226728.34,Closed-Won,Outbound,3,87,0.32,23.41,Yes,24,51
+NA7,North America,Hardware,Q2 2024,Healthcare,75020.85,Proposal Sent,Partner,4,59,0.25,89.87,Yes,10,3
+LATAM2,LATAM,Security and Support,Q2 2024,Healthcare,36068.06,Closed-Lost,Outbound,5,166,0.96,81.52,No,13,93
+NA1,North America,Public Cloud,Q2 2024,Healthcare,207673.58,Closed-Lost,Referral,3,81,0.04,42.65,No,34,18
+NA8,North America,Public Cloud,Q4 2024,Tech,156234.56,Closed-Won,Outbound,1,127,0.44,40.28,No,8,6
+EMEA5,EMEA,Developer Tools,Q1 2024,Finance,63256.72,Closed-Lost,Inbound,4,88,0.06,70.83,Yes,26,42
+EMEA7,EMEA,Virtualisation,Q1 2024,Education,96918.28,Negotiation,Inbound,3,137,0.37,55.65,Yes,5,52
+NA2,North America,AI and Data,Q1 2024,Manufacturing,20945.11,Negotiation,Referral,4,131,0.17,81.81,Yes,45,28
+APAC3,APAC,AI and Data,Q1 2024,Finance,106222.65,Negotiation,Inbound,5,155,0.24,32.06,Yes,26,76
+LATAM3,LATAM,Ubuntu OS,Q3 2024,Finance,8623.28,Negotiation,Partner,2,70,0.02,12.98,No,20,68
+LATAM10,LATAM,Private Cloud,Q1 2024,Healthcare,197091.65,Closed-Won,Outbound,4,93,0.77,27.25,Yes,41,66
+NA6,North America,Private Cloud,Q3 2024,Finance,12939.93,Closed-Lost,Partner,2,165,0.63,45.13,No,24,5
+APAC8,APAC,Security and Support,Q1 2024,Manufacturing,89563.27,Closed-Lost,Inbound,3,73,0.07,19.38,No,31,14
+NA4,North America,Developer Tools,Q4 2024,Healthcare,150479.81,Closed-Won,Inbound,4,33,0.06,33.44,Yes,30,12
+APAC10,APAC,Public Cloud,Q2 2024,Manufacturing,224465.16,Closed-Lost,Inbound,2,178,0.1,27.81,No,41,85
+APAC7,APAC,IoT and edge,Q2 2024,Finance,144406.95,Proposal Sent,Inbound,3,157,0.12,75.26,Yes,24,1
+APAC10,APAC,Kubernetes,Q3 2024,Healthcare,173964.17,Negotiation,Inbound,2,45,0.87,89.79,No,15,99
+APAC9,APAC,Security and Support,Q2 2024,Retail,156340.73,Closed-Lost,Inbound,1,38,0.15,16.12,No,9,11
+EMEA5,EMEA,IoT and edge,Q3 2024,Education,90110.28,Negotiation,Outbound,1,159,0.02,14.51,Yes,27,27
+LATAM7,LATAM,Security and Support,Q4 2024,Manufacturing,13784.55,Proposal Sent,Event,1,138,0.23,64.42,Yes,46,15
+NA2,North America,Kubernetes,Q4 2024,Education,65678.87,Closed-Won,Referral,4,70,0.32,2.9,Yes,30,44
+NA2,North America,Developer Tools,Q3 2024,Healthcare,54632.85,Proposal Sent,Event,3,177,0.52,33.34,No,26,11
+EMEA7,EMEA,Developer Tools,Q1 2024,Education,143896.59,Closed-Lost,Outbound,2,29,0.62,66.5,Yes,8,11
+NA7,North America,IoT and edge,Q1 2024,Education,99720.95,Negotiation,Outbound,5,49,0.54,59.21,Yes,49,96
+EMEA7,EMEA,Private Cloud,Q2 2024,Retail,44619.16,Closed-Won,Referral,4,58,0.65,81.23,Yes,3,55
+LATAM3,LATAM,Hardware,Q1 2024,Manufacturing,22898.58,Closed-Lost,Inbound,5,78,0.02,0.06,Yes,36,98
+EMEA1,EMEA,IoT and edge,Q4 2024,Retail,128787.56,Negotiation,Partner,4,169,0.86,23.57,No,49,63
+LATAM2,LATAM,IoT and edge,Q1 2024,Tech,91798.85,Closed-Won,Inbound,5,166,0.16,36.12,Yes,3,97
+NA4,North America,Private Cloud,Q3 2024,Tech,117317.15,Closed-Won,Partner,2,70,0.79,83.24,No,13,94
+NA10,North America,Virtualisation,Q3 2024,Manufacturing,48458.14,Closed-Won,Outbound,5,131,0.56,97.64,Yes,3,33
+EMEA6,EMEA,Public Cloud,Q1 2024,Healthcare,82285.17,Closed-Won,Outbound,2,174,0.78,14.76,Yes,38,38
+EMEA3,EMEA,Security and Support,Q2 2024,Education,4098.4,Proposal Sent,Inbound,4,87,0.28,99.9,Yes,36,49
+NA1,North America,Virtualisation,Q4 2024,Healthcare,178641.5,Proposal Sent,Partner,2,63,0.29,79.25,No,17,83
+NA10,North America,IoT and edge,Q2 2024,Healthcare,94871.05,Proposal Sent,Referral,5,175,0.46,94.09,Yes,16,67
+LATAM3,LATAM,Kubernetes,Q3 2024,Tech,51443.46,Negotiation,Event,4,148,0.93,75.19,No,43,96
+EMEA6,EMEA,Hardware,Q2 2024,Finance,50986.14,Closed-Won,Outbound,4,103,0.97,68.11,No,13,19
+APAC8,APAC,Kubernetes,Q4 2024,Healthcare,111544.34,Proposal Sent,Inbound,5,15,0.25,98.25,No,11,1
+APAC7,APAC,Kubernetes,Q3 2024,Education,230861.41,Negotiation,Inbound,4,105,0.21,31.61,No,43,37
+APAC8,APAC,Security and Support,Q3 2024,Manufacturing,245449.62,Proposal Sent,Partner,1,98,0.29,99.93,No,45,54
+LATAM5,LATAM,Virtualisation,Q4 2024,Manufacturing,213249.67,Closed-Won,Partner,4,36,0.85,62.51,No,23,93
+LATAM9,LATAM,Kubernetes,Q2 2024,Education,52147.4,Closed-Won,Partner,3,81,0.33,85.23,No,19,90
+APAC5,APAC,Hardware,Q1 2024,Healthcare,193552.56,Negotiation,Inbound,4,35,0.32,63.68,No,41,19
+LATAM9,LATAM,AI and Data,Q1 2024,Education,70610.91,Closed-Won,Event,5,10,0.85,63.29,Yes,38,90
+NA3,North America,Security and Support,Q3 2024,Education,120775.63,Proposal Sent,Inbound,5,129,0.98,69.4,No,30,91
+LATAM10,LATAM,Virtualisation,Q4 2024,Retail,161676.96,Closed-Lost,Event,5,80,0.44,90.98,No,14,69
+APAC3,APAC,Developer Tools,Q4 2024,Manufacturing,224457.07,Closed-Won,Inbound,4,179,0.23,29.74,No,38,52
+EMEA7,EMEA,Public Cloud,Q2 2024,Finance,103840.49,Proposal Sent,Event,1,171,0.29,3.5,Yes,18,70
+EMEA2,EMEA,Hardware,Q1 2024,Retail,141300.7,Closed-Lost,Outbound,3,24,0.06,95.05,No,30,92
+LATAM2,LATAM,Hardware,Q4 2024,Manufacturing,188873.16,Closed-Won,Inbound,1,96,0.89,59.5,Yes,15,64
+EMEA4,EMEA,Public Cloud,Q1 2024,Manufacturing,214717.2,Closed-Won,Referral,3,165,0.73,97.32,Yes,38,22
+LATAM6,LATAM,Hardware,Q2 2024,Tech,238446.1,Closed-Won,Event,3,104,0.61,93.76,No,27,56
+LATAM5,LATAM,Hardware,Q4 2024,Retail,90128.77,Closed-Won,Outbound,1,103,0.9,31.66,Yes,45,80
+APAC6,APAC,Hardware,Q4 2024,Manufacturing,249984.57,Negotiation,Referral,1,42,0.34,40.37,No,25,30
+EMEA1,EMEA,Developer Tools,Q3 2024,Tech,240850.75,Closed-Won,Referral,4,41,0.48,33.25,Yes,44,93
+NA4,North America,Private Cloud,Q3 2024,Tech,83447.09,Negotiation,Outbound,4,97,0.09,20.01,Yes,9,13
+EMEA3,EMEA,Security and Support,Q2 2024,Manufacturing,33517.29,Negotiation,Event,3,102,0.32,95.74,No,43,14
+EMEA10,EMEA,IoT and edge,Q3 2024,Healthcare,88469.81,Negotiation,Inbound,2,176,0.66,55.22,No,6,60
+NA1,North America,Kubernetes,Q4 2024,Finance,51392.33,Negotiation,Referral,1,98,0.26,72.89,No,19,17
+LATAM8,LATAM,AI and Data,Q1 2024,Retail,139895.23,Proposal Sent,Inbound,4,10,0.87,59.47,No,33,86
+APAC9,APAC,Hardware,Q4 2024,Tech,157258.14,Closed-Lost,Referral,4,98,0.4,48.81,No,6,79
+LATAM4,LATAM,Kubernetes,Q1 2024,Tech,77327.2,Closed-Won,Outbound,4,32,0.1,5.42,No,46,52
+EMEA8,EMEA,Private Cloud,Q4 2024,Healthcare,242701.9,Negotiation,Outbound,2,138,0.09,87.79,No,3,56
+APAC6,APAC,Security and Support,Q3 2024,Education,142269.43,Closed-Lost,Event,1,101,0.22,58.84,No,26,11
+APAC10,APAC,Public Cloud,Q3 2024,Healthcare,171828.64,Closed-Won,Referral,3,169,0.29,96.14,No,7,52
+NA3,North America,IoT and edge,Q4 2024,Education,214156.97,Negotiation,Event,1,113,0.62,65.67,Yes,18,84
+EMEA10,EMEA,AI and Data,Q1 2024,Healthcare,77473.09,Closed-Won,Event,5,101,0.06,19.82,Yes,47,95
+NA4,North America,Developer Tools,Q3 2024,Healthcare,127654.92,Closed-Won,Outbound,2,62,0.26,40.21,Yes,41,58
+LATAM8,LATAM,Virtualisation,Q2 2024,Tech,123087.94,Closed-Won,Referral,3,121,0.84,56.5,Yes,35,64
+NA2,North America,Ubuntu OS,Q3 2024,Finance,24422.93,Closed-Won,Inbound,4,147,0.27,71.76,Yes,41,6
+LATAM9,LATAM,Kubernetes,Q4 2024,Manufacturing,190636.65,Proposal Sent,Event,1,62,0.49,31.39,No,17,52
+LATAM7,LATAM,AI and Data,Q1 2024,Tech,39885.19,Negotiation,Inbound,5,104,0.71,85.36,Yes,9,86
+NA4,North America,AI and Data,Q3 2024,Tech,23491.34,Negotiation,Referral,4,89,0.76,39.72,No,3,81
+NA7,North America,Hardware,Q4 2024,Healthcare,114533.73,Closed-Lost,Outbound,5,131,0.17,98.16,No,18,76
+APAC9,APAC,Private Cloud,Q1 2024,Healthcare,117643.56,Negotiation,Referral,3,143,0.84,9.84,No,42,38
+APAC10,APAC,Developer Tools,Q3 2024,Education,141035.56,Closed-Won,Inbound,2,67,0.31,76.6,No,44,98
+LATAM4,LATAM,Security and Support,Q1 2024,Education,51439.41,Proposal Sent,Referral,5,165,0.43,31.07,No,12,72
+EMEA5,EMEA,Ubuntu OS,Q4 2024,Education,87516.04,Negotiation,Referral,3,175,0.44,82.39,No,44,2
+APAC6,APAC,IoT and edge,Q2 2024,Healthcare,19230.22,Closed-Won,Partner,5,89,0.39,68.14,Yes,45,31
+APAC7,APAC,AI and Data,Q1 2024,Finance,160333.75,Negotiation,Partner,3,112,0.89,48.12,No,5,39
+EMEA7,EMEA,AI and Data,Q2 2024,Education,65688.75,Closed-Lost,Partner,3,63,0.55,17.52,No,15,50
+NA9,North America,Virtualisation,Q2 2024,Education,155933.45,Negotiation,Inbound,1,162,0.57,95.92,Yes,22,67
+NA2,North America,IoT and edge,Q1 2024,Retail,101374.79,Closed-Won,Event,1,151,0.56,72.42,Yes,3,13
+APAC10,APAC,Hardware,Q4 2024,Finance,71630.42,Closed-Won,Event,2,130,0.65,64.55,Yes,46,95
+LATAM6,LATAM,Ubuntu OS,Q4 2024,Healthcare,162389.21,Proposal Sent,Partner,5,37,0.2,26.59,Yes,44,91
+APAC6,APAC,Kubernetes,Q2 2024,Finance,80443.4,Negotiation,Partner,4,178,0.14,87.63,No,19,44
+APAC1,APAC,Ubuntu OS,Q2 2024,Finance,38955.65,Closed-Lost,Referral,3,136,0.1,53.99,Yes,19,20
+EMEA7,EMEA,Security and Support,Q1 2024,Manufacturing,207373.42,Proposal Sent,Referral,3,30,0.37,94.6,No,33,6
+NA5,North America,IoT and edge,Q4 2024,Manufacturing,165369.86,Closed-Lost,Outbound,5,109,0.82,65.25,No,27,18
+EMEA1,EMEA,IoT and edge,Q4 2024,Tech,123804.58,Negotiation,Event,4,172,0.75,41.63,Yes,7,26
+EMEA3,EMEA,Public Cloud,Q3 2024,Retail,22620.47,Closed-Lost,Partner,2,166,0.72,0.05,Yes,19,88
+EMEA1,EMEA,Public Cloud,Q3 2024,Healthcare,223537.95,Proposal Sent,Partner,5,132,0.29,12.44,No,44,17
+LATAM8,LATAM,Ubuntu OS,Q1 2024,Tech,195171.8,Closed-Won,Referral,4,142,0.72,4.19,No,40,81
+LATAM2,LATAM,IoT and edge,Q1 2024,Manufacturing,139576.23,Proposal Sent,Outbound,1,46,0.83,83.25,Yes,22,63
+NA1,North America,IoT and edge,Q2 2024,Retail,56980.72,Proposal Sent,Inbound,1,111,0.69,40.55,No,15,63
+EMEA7,EMEA,Virtualisation,Q2 2024,Finance,154339.33,Proposal Sent,Outbound,3,160,0.25,66.08,Yes,9,96
+APAC5,APAC,Virtualisation,Q4 2024,Healthcare,141981.07,Closed-Lost,Outbound,1,76,0.68,20.75,Yes,7,33
+NA8,North America,IoT and edge,Q3 2024,Manufacturing,48978.46,Negotiation,Event,3,148,0.04,60.66,Yes,32,17
+LATAM6,LATAM,Public Cloud,Q3 2024,Tech,150740.69,Closed-Won,Partner,5,22,0.69,33.6,Yes,35,15
+LATAM5,LATAM,Hardware,Q3 2024,Manufacturing,159464.84,Negotiation,Partner,1,136,0.93,62.36,No,26,86
+NA6,North America,AI and Data,Q3 2024,Education,129162.27,Closed-Lost,Partner,5,97,0.14,82.76,Yes,26,38
+NA8,North America,Ubuntu OS,Q2 2024,Manufacturing,164850.39,Closed-Won,Inbound,3,81,0.4,20.73,Yes,21,33
+LATAM2,LATAM,Hardware,Q1 2024,Healthcare,230968.13,Closed-Lost,Inbound,3,50,0.96,53.11,No,49,60
+NA8,North America,Kubernetes,Q3 2024,Retail,206253.71,Closed-Won,Referral,4,97,0.08,8.6,No,5,33
+LATAM3,LATAM,AI and Data,Q4 2024,Education,46465.7,Closed-Won,Event,1,78,0.2,8.8,No,49,79
+APAC10,APAC,Private Cloud,Q1 2024,Tech,135994.85,Closed-Won,Event,1,28,0.43,60.95,Yes,4,13
+NA7,North America,Kubernetes,Q3 2024,Manufacturing,240136.0,Closed-Lost,Event,1,111,0.54,86.53,No,17,39
+EMEA9,EMEA,Hardware,Q2 2024,Retail,65936.22,Closed-Won,Partner,5,170,0.77,93.82,Yes,39,8
+LATAM3,LATAM,AI and Data,Q4 2024,Education,144634.09,Closed-Won,Inbound,1,153,0.59,11.04,No,29,100
+LATAM5,LATAM,Kubernetes,Q2 2024,Retail,98975.51,Negotiation,Referral,4,179,0.33,52.41,Yes,23,86
+APAC8,APAC,Kubernetes,Q1 2024,Tech,73056.67,Negotiation,Event,4,126,0.54,30.02,No,21,21
+NA8,North America,IoT and edge,Q4 2024,Finance,129722.31,Closed-Won,Referral,1,82,0.36,44.59,No,40,30
+EMEA8,EMEA,Private Cloud,Q2 2024,Retail,29696.57,Proposal Sent,Event,3,115,0.29,60.72,Yes,42,18
+LATAM10,LATAM,Hardware,Q3 2024,Healthcare,137797.15,Negotiation,Outbound,3,23,0.28,77.93,Yes,23,72
+EMEA6,EMEA,Virtualisation,Q1 2024,Tech,84159.84,Negotiation,Outbound,1,109,0.27,55.67,Yes,7,6
+LATAM7,LATAM,Virtualisation,Q2 2024,Education,94818.17,Closed-Won,Event,3,113,0.99,67.93,No,41,76
+LATAM3,LATAM,Security and Support,Q2 2024,Retail,209642.89,Proposal Sent,Event,3,53,0.97,47.76,No,47,70
+APAC4,APAC,Private Cloud,Q4 2024,Healthcare,68222.95,Closed-Won,Event,5,62,0.83,46.42,No,41,79
+EMEA1,EMEA,Ubuntu OS,Q4 2024,Healthcare,226238.41,Negotiation,Outbound,2,60,0.51,36.75,Yes,3,33
+NA1,North America,AI and Data,Q4 2024,Tech,81705.22,Proposal Sent,Inbound,3,15,0.93,56.27,Yes,43,54
+LATAM9,LATAM,Hardware,Q1 2024,Healthcare,239161.82,Proposal Sent,Referral,2,59,0.56,22.77,No,26,90
+LATAM8,LATAM,Kubernetes,Q3 2024,Education,38616.76,Proposal Sent,Referral,1,73,0.26,64.14,Yes,5,27
+LATAM8,LATAM,Public Cloud,Q1 2024,Retail,56060.76,Negotiation,Event,3,107,0.17,2.66,Yes,27,45
+LATAM6,LATAM,Private Cloud,Q4 2024,Retail,104193.89,Closed-Lost,Inbound,5,113,0.1,4.5,Yes,7,65
+NA1,North America,Developer Tools,Q3 2024,Education,22745.42,Closed-Lost,Referral,3,55,0.04,93.22,Yes,9,99
+NA6,North America,Private Cloud,Q3 2024,Tech,167614.9,Closed-Won,Referral,5,114,0.2,93.71,Yes,34,25
+LATAM9,LATAM,Hardware,Q4 2024,Education,17980.12,Closed-Lost,Inbound,1,174,0.17,10.66,Yes,41,7
+APAC1,APAC,Virtualisation,Q1 2024,Healthcare,178184.64,Proposal Sent,Outbound,2,42,0.24,53.11,Yes,39,15
+APAC7,APAC,Ubuntu OS,Q3 2024,Finance,128854.87,Closed-Won,Inbound,1,10,0.94,3.12,Yes,17,23
+EMEA10,EMEA,IoT and edge,Q2 2024,Retail,33352.24,Closed-Lost,Event,4,91,0.81,30.95,No,36,29
+NA8,North America,Kubernetes,Q3 2024,Finance,124938.6,Negotiation,Referral,3,162,0.66,66.97,No,4,42
+LATAM5,LATAM,Private Cloud,Q3 2024,Manufacturing,85725.15,Negotiation,Outbound,3,28,0.96,88.51,No,30,99
+APAC7,APAC,Developer Tools,Q3 2024,Tech,24068.49,Closed-Won,Referral,1,130,0.64,60.77,Yes,38,81
+LATAM4,LATAM,Developer Tools,Q2 2024,Healthcare,131387.72,Proposal Sent,Partner,2,34,0.87,57.89,Yes,13,49
+NA10,North America,Hardware,Q4 2024,Education,16484.45,Closed-Won,Inbound,2,167,0.11,27.48,Yes,48,97
+NA4,North America,Kubernetes,Q3 2024,Tech,80252.03,Proposal Sent,Partner,1,179,0.06,54.82,No,38,64
+EMEA10,EMEA,AI and Data,Q2 2024,Healthcare,72610.46,Negotiation,Event,3,84,0.94,78.91,Yes,17,35
+EMEA1,EMEA,Virtualisation,Q1 2024,Education,97355.65,Negotiation,Referral,4,145,0.91,28.81,No,29,28
+LATAM9,LATAM,IoT and edge,Q2 2024,Retail,150992.58,Proposal Sent,Referral,5,105,0.71,41.05,No,37,54
+LATAM8,LATAM,AI and Data,Q1 2024,Finance,28311.04,Negotiation,Partner,4,70,0.15,98.69,Yes,18,23
+NA8,North America,IoT and edge,Q4 2024,Education,101791.65,Negotiation,Referral,3,15,0.45,47.57,No,34,98
+LATAM6,LATAM,Security and Support,Q2 2024,Healthcare,98015.88,Proposal Sent,Inbound,4,17,0.02,19.27,Yes,48,26
+NA6,North America,Virtualisation,Q4 2024,Education,224573.99,Negotiation,Inbound,5,17,0.07,85.14,No,33,11
+LATAM4,LATAM,Hardware,Q2 2024,Education,12090.42,Proposal Sent,Partner,5,34,0.7,62.46,Yes,7,79
+EMEA9,EMEA,Security and Support,Q4 2024,Retail,104980.53,Closed-Lost,Referral,4,40,0.24,33.93,No,15,65
+LATAM2,LATAM,Public Cloud,Q2 2024,Tech,138971.44,Closed-Lost,Inbound,3,174,0.26,31.29,Yes,46,42
+EMEA9,EMEA,Security and Support,Q1 2024,Retail,53446.3,Closed-Won,Referral,5,170,0.75,15.28,Yes,29,8
+NA4,North America,Private Cloud,Q3 2024,Retail,238960.37,Closed-Won,Inbound,2,17,0.62,72.67,No,11,63
+APAC9,APAC,Ubuntu OS,Q2 2024,Manufacturing,242750.58,Closed-Lost,Partner,2,127,0.09,22.27,No,6,38
+EMEA10,EMEA,Kubernetes,Q3 2024,Tech,79480.27,Closed-Lost,Outbound,1,133,0.44,26.27,Yes,11,26
+NA10,North America,Ubuntu OS,Q4 2024,Education,93999.38,Negotiation,Event,1,91,0.66,92.55,No,49,89
+APAC9,APAC,Kubernetes,Q1 2024,Retail,227396.64,Proposal Sent,Partner,2,72,0.54,92.6,No,6,4
+APAC9,APAC,Private Cloud,Q3 2024,Manufacturing,2959.15,Closed-Won,Partner,2,87,0.45,64.07,No,18,80
+LATAM2,LATAM,Hardware,Q1 2024,Healthcare,25041.05,Closed-Lost,Event,1,174,0.89,18.2,Yes,34,50
+LATAM7,LATAM,Ubuntu OS,Q2 2024,Education,12676.27,Proposal Sent,Event,2,77,0.4,89.85,Yes,10,22
+NA8,North America,Security and Support,Q1 2024,Healthcare,163022.2,Closed-Won,Referral,2,90,0.27,19.12,Yes,1,9
+APAC8,APAC,Ubuntu OS,Q1 2024,Manufacturing,66548.18,Negotiation,Event,5,170,0.12,4.6,Yes,20,35
+LATAM10,LATAM,IoT and edge,Q4 2024,Retail,73843.95,Closed-Won,Partner,5,62,0.12,53.06,Yes,17,73
+EMEA4,EMEA,Public Cloud,Q2 2024,Retail,226572.26,Closed-Lost,Inbound,1,47,0.6,58.41,No,25,10
+EMEA10,EMEA,Ubuntu OS,Q4 2024,Education,115513.69,Closed-Lost,Inbound,2,134,0.31,93.09,Yes,44,18
+EMEA5,EMEA,Security and Support,Q2 2024,Finance,158431.46,Closed-Lost,Referral,3,16,0.21,76.61,Yes,11,60
+LATAM2,LATAM,Virtualisation,Q4 2024,Healthcare,56602.09,Proposal Sent,Partner,4,104,0.11,72.54,Yes,19,87
+LATAM5,LATAM,Ubuntu OS,Q4 2024,Manufacturing,27988.35,Negotiation,Partner,4,127,0.11,73.02,No,22,37
+NA9,North America,IoT and edge,Q2 2024,Education,104772.75,Closed-Won,Inbound,4,123,0.89,67.5,No,40,77
+APAC2,APAC,Ubuntu OS,Q4 2024,Healthcare,68365.66,Proposal Sent,Outbound,5,152,0.71,18.52,Yes,23,16
+LATAM6,LATAM,Kubernetes,Q1 2024,Retail,206789.24,Proposal Sent,Referral,3,157,0.89,14.01,Yes,31,26
+APAC1,APAC,Kubernetes,Q4 2024,Manufacturing,80181.88,Closed-Won,Inbound,3,40,0.76,39.75,No,47,75
+EMEA9,EMEA,Developer Tools,Q3 2024,Healthcare,203071.88,Proposal Sent,Outbound,4,53,0.08,20.06,Yes,43,57
+NA10,North America,Private Cloud,Q4 2024,Healthcare,216326.49,Negotiation,Referral,3,129,0.71,36.84,Yes,37,18
+NA2,North America,Private Cloud,Q4 2024,Manufacturing,34392.01,Proposal Sent,Outbound,1,104,0.25,32.26,No,14,29
+NA6,North America,Virtualisation,Q2 2024,Healthcare,96649.24,Closed-Won,Referral,5,57,0.35,44.63,Yes,13,53
+EMEA1,EMEA,Public Cloud,Q2 2024,Tech,43797.44,Proposal Sent,Event,2,151,0.98,84.22,No,17,50
+LATAM8,LATAM,AI and Data,Q2 2024,Healthcare,219983.94,Proposal Sent,Outbound,5,37,0.77,44.65,Yes,17,75
+APAC9,APAC,Hardware,Q3 2024,Manufacturing,248706.58,Negotiation,Event,2,90,0.89,5.13,Yes,36,13
+APAC9,APAC,Private Cloud,Q2 2024,Finance,48285.6,Closed-Won,Partner,3,86,0.83,0.74,No,13,79
+APAC5,APAC,Virtualisation,Q1 2024,Manufacturing,224785.6,Negotiation,Referral,4,139,0.4,85.81,Yes,24,9
+APAC6,APAC,Public Cloud,Q1 2024,Manufacturing,97460.95,Closed-Won,Partner,2,180,0.51,6.46,Yes,49,92
+NA6,North America,AI and Data,Q2 2024,Finance,102785.69,Proposal Sent,Outbound,3,20,0.69,24.37,Yes,38,71
+EMEA6,EMEA,IoT and edge,Q4 2024,Manufacturing,210689.04,Closed-Lost,Event,5,122,0.45,6.29,Yes,42,81
+EMEA1,EMEA,Public Cloud,Q2 2024,Finance,71510.6,Closed-Won,Inbound,4,135,0.07,27.13,Yes,41,81
+NA8,North America,Security and Support,Q2 2024,Manufacturing,116175.56,Closed-Lost,Referral,2,27,0.08,65.48,Yes,2,17
+NA10,North America,Public Cloud,Q4 2024,Education,24462.72,Closed-Lost,Event,5,166,0.38,52.32,Yes,5,46
+NA5,North America,Private Cloud,Q4 2024,Healthcare,112691.38,Proposal Sent,Partner,4,117,0.98,13.23,No,13,51
+EMEA1,EMEA,Public Cloud,Q2 2024,Retail,121112.35,Closed-Lost,Inbound,5,22,0.94,21.09,No,6,91
+EMEA3,EMEA,Virtualisation,Q2 2024,Finance,149381.84,Negotiation,Partner,1,108,0.3,31.9,Yes,7,64
+EMEA5,EMEA,AI and Data,Q1 2024,Healthcare,2022.99,Closed-Won,Referral,3,27,0.15,26.8,Yes,45,85
+APAC3,APAC,IoT and edge,Q2 2024,Education,218773.92,Closed-Won,Event,5,107,0.25,22.11,Yes,41,2
+LATAM2,LATAM,Kubernetes,Q2 2024,Retail,111102.74,Proposal Sent,Inbound,1,87,0.97,18.03,Yes,38,17
+EMEA1,EMEA,Ubuntu OS,Q4 2024,Education,59439.75,Negotiation,Referral,2,155,0.39,0.94,Yes,17,64
+LATAM7,LATAM,Developer Tools,Q2 2024,Tech,33567.72,Negotiation,Inbound,1,141,0.78,90.05,No,26,67
+APAC1,APAC,AI and Data,Q4 2024,Manufacturing,158904.31,Proposal Sent,Event,4,85,0.71,36.63,No,17,65
+NA8,North America,Kubernetes,Q3 2024,Tech,200219.03,Proposal Sent,Outbound,2,61,0.15,92.3,Yes,50,78
+APAC6,APAC,Kubernetes,Q1 2024,Manufacturing,161071.35,Proposal Sent,Outbound,4,50,0.4,61.12,Yes,2,69
+EMEA1,EMEA,Kubernetes,Q4 2024,Tech,178412.1,Proposal Sent,Inbound,4,98,0.33,78.33,No,4,100
+NA10,North America,Virtualisation,Q3 2024,Education,193398.42,Negotiation,Referral,4,172,0.12,18.36,Yes,17,3
+EMEA9,EMEA,Developer Tools,Q2 2024,Finance,87879.21,Closed-Won,Partner,1,152,0.46,16.25,Yes,44,67
+NA8,North America,IoT and edge,Q2 2024,Manufacturing,113498.74,Negotiation,Inbound,4,171,0.3,21.73,Yes,26,7
+LATAM5,LATAM,Developer Tools,Q2 2024,Education,200695.83,Proposal Sent,Inbound,2,90,0.22,6.91,Yes,28,8
+NA9,North America,Virtualisation,Q4 2024,Finance,64386.31,Closed-Lost,Referral,5,126,0.57,47.03,No,50,83
+NA10,North America,Ubuntu OS,Q3 2024,Manufacturing,158702.43,Negotiation,Partner,3,24,0.8,22.42,Yes,38,21
+APAC9,APAC,Public Cloud,Q1 2024,Manufacturing,105962.26,Negotiation,Partner,1,65,0.51,73.34,No,3,7
+APAC8,APAC,Public Cloud,Q1 2024,Healthcare,206433.42,Closed-Won,Referral,3,97,0.81,95.48,Yes,15,48
+EMEA9,EMEA,Ubuntu OS,Q4 2024,Retail,147452.93,Proposal Sent,Event,2,14,0.12,95.5,Yes,29,36
+LATAM1,LATAM,Virtualisation,Q4 2024,Manufacturing,73268.33,Closed-Won,Outbound,1,73,0.67,9.41,No,19,88
+APAC6,APAC,Virtualisation,Q1 2024,Education,206231.35,Closed-Won,Inbound,5,45,0.51,10.64,No,45,53
+APAC3,APAC,Virtualisation,Q2 2024,Manufacturing,144152.97,Closed-Lost,Outbound,3,132,0.82,64.46,Yes,4,55
+APAC3,APAC,Virtualisation,Q1 2024,Manufacturing,96173.91,Closed-Won,Event,2,173,0.61,54.86,No,7,2
+NA4,North America,Security and Support,Q4 2024,Finance,150064.57,Closed-Won,Inbound,3,43,0.29,8.48,Yes,22,92
+LATAM6,LATAM,Virtualisation,Q3 2024,Healthcare,95885.41,Proposal Sent,Partner,2,122,0.74,20.1,Yes,18,38
+NA1,North America,Security and Support,Q4 2024,Healthcare,3913.3,Proposal Sent,Event,5,112,0.03,69.04,No,32,85
+APAC1,APAC,Virtualisation,Q4 2024,Education,242825.39,Negotiation,Inbound,2,148,0.06,63.67,No,12,28
+LATAM1,LATAM,Security and Support,Q2 2024,Retail,236877.63,Negotiation,Referral,5,178,0.24,65.74,Yes,10,3
+APAC1,APAC,Security and Support,Q1 2024,Finance,62400.42,Proposal Sent,Partner,1,31,0.12,22.86,No,33,44
+NA10,North America,Public Cloud,Q4 2024,Manufacturing,179192.53,Negotiation,Inbound,5,72,0.42,0.63,No,23,27
+NA1,North America,Kubernetes,Q3 2024,Manufacturing,143402.83,Negotiation,Referral,4,59,0.24,27.53,No,1,56
+APAC1,APAC,Virtualisation,Q4 2024,Finance,73185.1,Closed-Won,Event,2,177,0.06,18.74,Yes,21,48
+LATAM4,LATAM,IoT and edge,Q2 2024,Healthcare,128000.86,Closed-Lost,Outbound,5,85,0.13,44.8,No,20,47
+APAC3,APAC,Security and Support,Q3 2024,Retail,55117.1,Closed-Lost,Partner,2,33,0.43,9.98,Yes,47,10
+LATAM4,LATAM,Kubernetes,Q4 2024,Education,221655.01,Proposal Sent,Referral,1,171,0.36,55.01,No,44,92
+LATAM1,LATAM,Ubuntu OS,Q4 2024,Education,135197.3,Closed-Lost,Inbound,4,102,0.79,39.37,No,2,100
+LATAM6,LATAM,Developer Tools,Q3 2024,Education,71348.35,Proposal Sent,Partner,4,45,0.68,39.09,No,18,55
+LATAM3,LATAM,Private Cloud,Q4 2024,Healthcare,97523.78,Proposal Sent,Partner,2,79,0.66,5.76,Yes,2,43
+APAC3,APAC,Security and Support,Q2 2024,Manufacturing,32561.13,Closed-Won,Referral,4,169,0.93,41.28,Yes,28,7
+NA3,North America,Ubuntu OS,Q1 2024,Retail,22648.2,Proposal Sent,Inbound,4,21,0.9,40.58,Yes,2,90
+NA9,North America,Security and Support,Q2 2024,Education,25887.86,Closed-Won,Outbound,2,112,0.08,9.57,No,36,66
+APAC3,APAC,Kubernetes,Q1 2024,Healthcare,219212.34,Negotiation,Referral,2,152,0.48,48.82,Yes,12,47
+LATAM10,LATAM,Public Cloud,Q3 2024,Manufacturing,222595.61,Closed-Won,Outbound,5,27,0.98,79.69,Yes,26,95
+EMEA9,EMEA,Hardware,Q2 2024,Tech,230231.77,Closed-Won,Inbound,1,161,0.56,0.62,Yes,28,41
+APAC6,APAC,Developer Tools,Q2 2024,Healthcare,74650.12,Proposal Sent,Outbound,1,178,0.38,29.47,No,14,89
+NA5,North America,Developer Tools,Q3 2024,Healthcare,95320.43,Closed-Won,Partner,1,95,0.01,6.58,Yes,14,18
+APAC6,APAC,Virtualisation,Q3 2024,Retail,147136.45,Closed-Won,Referral,3,75,0.12,40.34,No,35,15
+APAC8,APAC,Kubernetes,Q3 2024,Tech,66015.61,Closed-Won,Referral,1,91,0.78,20.93,No,26,40
+LATAM10,LATAM,Developer Tools,Q3 2024,Education,142066.4,Negotiation,Inbound,3,65,0.09,18.6,Yes,21,24
+NA2,North America,Ubuntu OS,Q1 2024,Education,147971.3,Proposal Sent,Inbound,3,63,0.66,51.0,No,34,34
+APAC5,APAC,Private Cloud,Q4 2024,Finance,137292.94,Closed-Won,Referral,5,39,0.59,10.52,No,24,58
+APAC6,APAC,Private Cloud,Q1 2024,Tech,79328.4,Proposal Sent,Event,4,16,0.37,61.54,Yes,8,61
+EMEA8,EMEA,Hardware,Q3 2024,Tech,226368.95,Closed-Won,Outbound,2,38,0.43,83.51,Yes,10,6
+EMEA4,EMEA,Developer Tools,Q1 2024,Retail,222447.85,Negotiation,Inbound,2,75,0.32,39.43,No,1,55
+APAC9,APAC,Hardware,Q1 2024,Finance,39260.11,Negotiation,Inbound,5,150,0.59,42.58,Yes,15,66
+APAC1,APAC,Hardware,Q4 2024,Retail,206546.39,Proposal Sent,Outbound,3,51,0.74,53.51,Yes,15,11
+EMEA5,EMEA,IoT and edge,Q1 2024,Manufacturing,112611.75,Closed-Won,Event,5,127,0.27,44.11,Yes,29,95
+NA8,North America,Ubuntu OS,Q2 2024,Tech,145494.04,Closed-Won,Partner,1,92,0.32,61.41,No,4,18
+NA6,North America,Hardware,Q1 2024,Healthcare,151544.18,Negotiation,Event,4,163,0.04,59.67,No,22,33
+LATAM6,LATAM,Ubuntu OS,Q2 2024,Healthcare,178539.19,Closed-Lost,Event,1,163,0.19,4.37,Yes,29,19
+APAC10,APAC,Public Cloud,Q2 2024,Finance,181318.36,Closed-Won,Referral,1,46,0.15,70.05,Yes,15,15
+NA10,North America,Security and Support,Q3 2024,Retail,52650.03,Closed-Won,Referral,4,116,0.9,54.21,No,13,19
+EMEA8,EMEA,AI and Data,Q4 2024,Healthcare,130104.53,Proposal Sent,Event,5,28,0.92,20.58,Yes,20,70
+APAC5,APAC,Hardware,Q2 2024,Healthcare,211043.96,Closed-Won,Event,4,143,0.65,5.42,Yes,38,9
+NA2,North America,Ubuntu OS,Q3 2024,Finance,244076.29,Closed-Won,Referral,4,48,0.98,46.07,No,46,93
+NA8,North America,Ubuntu OS,Q3 2024,Manufacturing,20219.93,Negotiation,Referral,4,24,0.62,49.73,No,7,89
+NA4,North America,Kubernetes,Q2 2024,Manufacturing,92590.75,Proposal Sent,Inbound,5,81,0.94,38.73,Yes,37,34
+EMEA3,EMEA,Private Cloud,Q2 2024,Retail,231493.2,Closed-Lost,Inbound,5,20,0.99,56.58,No,5,35
+APAC10,APAC,Virtualisation,Q3 2024,Healthcare,201600.0,Closed-Lost,Referral,5,125,0.49,34.12,Yes,32,49
+APAC6,APAC,Developer Tools,Q1 2024,Retail,117490.12,Closed-Won,Inbound,1,137,0.56,81.7,Yes,15,25
+NA10,North America,Private Cloud,Q4 2024,Education,169485.62,Closed-Lost,Event,3,109,0.23,96.64,No,14,62
+LATAM3,LATAM,Kubernetes,Q1 2024,Healthcare,192435.81,Negotiation,Partner,5,116,0.18,52.65,No,36,98
+EMEA7,EMEA,Hardware,Q2 2024,Finance,59920.4,Closed-Won,Inbound,4,122,0.96,67.77,Yes,11,36
+NA3,North America,IoT and edge,Q4 2024,Education,210733.42,Closed-Won,Referral,3,29,0.62,27.77,Yes,50,65
+EMEA10,EMEA,IoT and edge,Q3 2024,Education,77535.81,Closed-Won,Outbound,5,123,0.95,84.16,Yes,29,38
+EMEA6,EMEA,Security and Support,Q2 2024,Manufacturing,33644.44,Closed-Lost,Event,5,170,0.79,48.67,No,20,40
+LATAM6,LATAM,Hardware,Q3 2024,Retail,64026.99,Closed-Lost,Inbound,5,31,0.6,19.39,No,30,85
+NA8,North America,Developer Tools,Q2 2024,Tech,90271.87,Closed-Lost,Partner,4,107,0.78,54.61,No,26,77
+NA2,North America,Virtualisation,Q1 2024,Tech,239954.64,Closed-Won,Outbound,5,111,0.73,6.06,Yes,45,11
+NA4,North America,Public Cloud,Q4 2024,Finance,13901.8,Closed-Won,Inbound,3,110,0.18,93.98,Yes,50,95
+EMEA10,EMEA,Security and Support,Q4 2024,Manufacturing,90572.13,Negotiation,Outbound,4,115,0.53,24.61,No,2,10
+EMEA4,EMEA,Ubuntu OS,Q4 2024,Healthcare,139938.88,Proposal Sent,Event,1,172,0.88,1.7,No,24,94
+LATAM1,LATAM,Public Cloud,Q3 2024,Finance,12713.01,Proposal Sent,Outbound,2,58,0.84,22.45,No,15,36
+EMEA10,EMEA,Kubernetes,Q4 2024,Retail,47888.92,Negotiation,Event,4,124,0.04,21.82,No,36,58
+NA2,North America,Virtualisation,Q1 2024,Manufacturing,43391.05,Negotiation,Inbound,5,96,0.53,49.79,Yes,33,31
+EMEA10,EMEA,AI and Data,Q3 2024,Healthcare,29637.88,Closed-Won,Referral,3,122,0.04,75.69,Yes,33,22
+EMEA2,EMEA,Developer Tools,Q3 2024,Retail,26485.15,Proposal Sent,Event,5,57,0.77,43.74,No,23,21
+LATAM7,LATAM,Hardware,Q4 2024,Healthcare,130728.12,Closed-Won,Outbound,3,112,0.9,19.68,Yes,44,46
+EMEA1,EMEA,IoT and edge,Q2 2024,Education,52914.61,Negotiation,Outbound,3,83,0.28,75.8,No,42,96
+NA2,North America,Kubernetes,Q2 2024,Manufacturing,179862.49,Closed-Won,Inbound,1,144,0.12,23.02,Yes,19,1
+EMEA1,EMEA,IoT and edge,Q4 2024,Education,124539.54,Proposal Sent,Partner,4,121,0.18,75.24,Yes,5,42
+APAC3,APAC,Security and Support,Q1 2024,Retail,35554.64,Negotiation,Inbound,4,85,0.04,53.01,Yes,19,28
+APAC2,APAC,IoT and edge,Q2 2024,Retail,184992.51,Closed-Won,Outbound,3,79,0.47,60.39,Yes,41,5
+NA9,North America,Developer Tools,Q3 2024,Retail,92389.4,Closed-Won,Partner,1,110,0.57,42.27,No,42,97
+APAC10,APAC,Kubernetes,Q2 2024,Finance,115421.92,Negotiation,Outbound,3,32,0.79,33.41,Yes,41,7
+NA7,North America,Security and Support,Q1 2024,Tech,24218.42,Negotiation,Inbound,2,36,0.14,30.22,No,31,27
+LATAM3,LATAM,Security and Support,Q3 2024,Retail,51866.95,Closed-Won,Partner,5,162,0.45,53.76,Yes,41,24
+LATAM1,LATAM,Ubuntu OS,Q4 2024,Manufacturing,183876.38,Closed-Lost,Inbound,1,125,0.46,17.92,No,7,3
+LATAM7,LATAM,Kubernetes,Q2 2024,Tech,202914.67,Closed-Lost,Event,5,41,0.99,86.88,Yes,30,62
+EMEA3,EMEA,Kubernetes,Q2 2024,Manufacturing,191773.08,Negotiation,Outbound,4,86,0.41,45.38,No,25,82
+LATAM1,LATAM,Private Cloud,Q2 2024,Manufacturing,169915.18,Closed-Lost,Outbound,2,113,0.73,79.86,No,24,68
+NA6,North America,Private Cloud,Q2 2024,Manufacturing,22587.97,Closed-Lost,Outbound,4,45,0.71,51.01,No,32,7
+EMEA3,EMEA,Ubuntu OS,Q1 2024,Finance,142567.22,Proposal Sent,Referral,3,14,0.69,79.27,No,28,95
+LATAM7,LATAM,IoT and edge,Q2 2024,Healthcare,243242.91,Negotiation,Outbound,2,157,0.11,19.66,No,10,78
+NA8,North America,Hardware,Q3 2024,Finance,166471.27,Proposal Sent,Inbound,4,120,0.74,85.19,Yes,30,60
+LATAM5,LATAM,Virtualisation,Q4 2024,Healthcare,48846.75,Closed-Won,Partner,4,83,0.52,32.55,No,41,14
+EMEA2,EMEA,Ubuntu OS,Q1 2024,Tech,8937.55,Closed-Lost,Event,1,84,0.86,59.43,Yes,17,20
+LATAM5,LATAM,Security and Support,Q2 2024,Retail,128989.72,Negotiation,Outbound,3,171,0.65,41.49,No,45,28
+EMEA3,EMEA,Public Cloud,Q3 2024,Tech,66913.67,Proposal Sent,Inbound,2,139,0.61,90.63,Yes,42,48
+EMEA4,EMEA,Public Cloud,Q3 2024,Retail,98642.59,Proposal Sent,Outbound,1,61,0.81,36.04,No,10,25
+LATAM1,LATAM,Private Cloud,Q3 2024,Retail,113249.09,Closed-Won,Referral,5,96,0.42,55.78,Yes,2,44
+EMEA3,EMEA,Ubuntu OS,Q1 2024,Healthcare,3957.26,Closed-Won,Referral,1,161,0.6,23.41,Yes,37,41
+LATAM2,LATAM,Kubernetes,Q4 2024,Tech,77451.62,Closed-Lost,Partner,2,150,0.92,1.22,No,28,5
+APAC6,APAC,Private Cloud,Q3 2024,Finance,214308.0,Closed-Won,Referral,4,148,0.81,11.69,No,24,30
+LATAM1,LATAM,Hardware,Q4 2024,Retail,211246.83,Closed-Won,Outbound,5,97,0.85,6.9,No,4,26
+APAC5,APAC,Public Cloud,Q2 2024,Tech,138186.51,Negotiation,Inbound,1,176,0.43,10.51,No,10,74
+EMEA5,EMEA,Private Cloud,Q2 2024,Retail,188202.48,Closed-Won,Partner,1,28,0.2,81.03,Yes,49,53
+APAC8,APAC,AI and Data,Q1 2024,Finance,135554.14,Closed-Lost,Event,4,61,0.37,59.66,No,15,62
+EMEA6,EMEA,Developer Tools,Q4 2024,Retail,186988.96,Closed-Won,Inbound,1,151,0.4,44.03,Yes,44,69
+EMEA10,EMEA,Developer Tools,Q3 2024,Finance,95612.09,Closed-Won,Event,5,41,0.41,51.41,No,47,7
+LATAM7,LATAM,Public Cloud,Q4 2024,Manufacturing,159937.11,Negotiation,Inbound,5,96,0.88,8.77,Yes,45,100
+LATAM9,LATAM,Security and Support,Q4 2024,Tech,206383.67,Closed-Lost,Inbound,3,13,0.91,87.12,Yes,2,21
+APAC1,APAC,Virtualisation,Q4 2024,Healthcare,224572.14,Closed-Lost,Outbound,5,123,0.28,45.15,No,33,74
+APAC8,APAC,IoT and edge,Q4 2024,Healthcare,56559.93,Closed-Won,Referral,1,95,1.0,75.55,Yes,13,15
+LATAM10,LATAM,Developer Tools,Q4 2024,Retail,186807.48,Proposal Sent,Partner,5,117,0.17,61.94,Yes,28,82
+LATAM3,LATAM,Developer Tools,Q2 2024,Finance,58656.55,Closed-Won,Partner,4,14,0.19,62.8,Yes,14,78
+APAC5,APAC,Public Cloud,Q3 2024,Healthcare,163623.53,Proposal Sent,Event,3,45,0.42,64.77,No,18,71
+NA7,North America,Kubernetes,Q1 2024,Healthcare,134905.92,Closed-Lost,Partner,2,40,0.99,71.62,No,44,35
+APAC4,APAC,Developer Tools,Q3 2024,Education,140010.08,Negotiation,Event,5,145,0.1,82.17,No,40,91
+NA3,North America,Ubuntu OS,Q3 2024,Healthcare,100336.19,Negotiation,Partner,4,92,0.97,28.02,No,26,84
+APAC5,APAC,Ubuntu OS,Q4 2024,Finance,201857.43,Proposal Sent,Inbound,4,155,0.06,44.27,No,25,61
+EMEA7,EMEA,IoT and edge,Q2 2024,Tech,230077.7,Closed-Won,Inbound,3,80,0.24,56.13,Yes,28,60
+APAC4,APAC,Private Cloud,Q3 2024,Finance,7486.73,Closed-Won,Partner,2,125,0.28,66.58,Yes,1,28
+EMEA1,EMEA,Developer Tools,Q1 2024,Healthcare,173366.2,Closed-Lost,Event,2,53,0.3,69.66,Yes,18,93
+APAC6,APAC,Ubuntu OS,Q4 2024,Finance,50815.41,Negotiation,Event,5,116,0.19,44.38,No,3,3
+NA9,North America,Ubuntu OS,Q4 2024,Education,244329.99,Negotiation,Referral,1,109,0.32,47.38,Yes,9,73
+LATAM2,LATAM,Security and Support,Q1 2024,Retail,16083.06,Proposal Sent,Referral,5,154,0.1,89.49,Yes,10,57
+APAC4,APAC,IoT and edge,Q4 2024,Retail,128812.19,Proposal Sent,Inbound,4,179,0.39,24.32,Yes,26,71
+NA10,North America,Developer Tools,Q1 2024,Healthcare,26824.08,Closed-Lost,Outbound,3,118,0.71,66.24,Yes,40,64
+LATAM6,LATAM,Private Cloud,Q2 2024,Manufacturing,5257.03,Closed-Won,Referral,2,82,0.93,73.39,No,34,97
+LATAM3,LATAM,Kubernetes,Q3 2024,Finance,106194.76,Closed-Won,Partner,2,154,0.31,21.49,No,39,4
+NA1,North America,IoT and edge,Q1 2024,Education,114865.34,Proposal Sent,Event,5,120,0.26,43.27,No,27,1
+NA8,North America,Developer Tools,Q3 2024,Education,175771.84,Closed-Won,Event,5,62,0.95,65.91,No,4,33
+LATAM8,LATAM,Kubernetes,Q2 2024,Manufacturing,121173.4,Negotiation,Event,5,143,0.84,11.41,No,24,96
+LATAM6,LATAM,Virtualisation,Q4 2024,Finance,149463.64,Closed-Won,Outbound,2,164,0.31,42.89,No,43,77
+APAC2,APAC,Kubernetes,Q1 2024,Manufacturing,69556.45,Proposal Sent,Inbound,4,163,0.31,12.69,No,22,2
+NA7,North America,Public Cloud,Q2 2024,Finance,170827.25,Closed-Lost,Referral,5,58,0.53,26.0,Yes,30,92
+LATAM5,LATAM,Public Cloud,Q3 2024,Manufacturing,77454.94,Closed-Lost,Referral,5,149,0.53,69.96,Yes,27,13
+NA8,North America,Kubernetes,Q2 2024,Finance,102481.02,Closed-Lost,Referral,4,118,0.8,1.56,Yes,5,90
+LATAM6,LATAM,AI and Data,Q3 2024,Tech,112152.96,Proposal Sent,Partner,2,124,0.82,60.47,Yes,41,35
+APAC4,APAC,Developer Tools,Q3 2024,Finance,127185.87,Closed-Lost,Event,1,141,0.83,3.18,Yes,11,42
+EMEA5,EMEA,Ubuntu OS,Q1 2024,Retail,198170.98,Closed-Won,Inbound,4,113,0.1,58.24,No,40,53
+LATAM2,LATAM,Hardware,Q4 2024,Retail,230005.37,Negotiation,Referral,2,14,0.45,48.12,No,25,39
+LATAM2,LATAM,Ubuntu OS,Q1 2024,Finance,230543.1,Proposal Sent,Referral,4,93,0.29,92.2,No,46,90
+NA2,North America,Kubernetes,Q3 2024,Manufacturing,129833.22,Proposal Sent,Referral,3,88,0.91,20.38,Yes,28,84
+NA9,North America,Private Cloud,Q1 2024,Education,172328.57,Proposal Sent,Event,5,105,0.67,64.48,Yes,15,100
+NA2,North America,Private Cloud,Q2 2024,Manufacturing,57149.93,Proposal Sent,Inbound,3,131,0.91,29.36,No,16,50
+LATAM2,LATAM,Public Cloud,Q2 2024,Tech,70682.14,Proposal Sent,Inbound,3,114,0.52,82.25,Yes,16,4
+APAC6,APAC,AI and Data,Q4 2024,Retail,186456.46,Negotiation,Partner,3,168,0.07,27.86,Yes,45,87
+APAC8,APAC,Kubernetes,Q3 2024,Finance,213673.02,Proposal Sent,Partner,2,72,0.47,15.36,Yes,30,16
+LATAM6,LATAM,Public Cloud,Q1 2024,Healthcare,158772.5,Closed-Lost,Referral,4,40,0.43,10.24,No,42,38
+APAC2,APAC,Security and Support,Q2 2024,Finance,68862.44,Proposal Sent,Inbound,2,120,0.76,91.87,No,8,34
+APAC10,APAC,Public Cloud,Q3 2024,Finance,164843.22,Closed-Lost,Referral,3,55,0.81,35.08,Yes,13,51
+LATAM2,LATAM,Security and Support,Q1 2024,Retail,36620.39,Negotiation,Outbound,1,36,0.83,78.01,No,19,46
+EMEA9,EMEA,Hardware,Q3 2024,Retail,118441.02,Proposal Sent,Outbound,2,114,0.35,85.51,Yes,5,36
+EMEA2,EMEA,Developer Tools,Q2 2024,Finance,34961.83,Closed-Won,Event,1,45,0.14,22.0,Yes,8,36
+LATAM1,LATAM,Security and Support,Q3 2024,Healthcare,170749.87,Proposal Sent,Event,3,56,0.91,99.59,Yes,26,41
+EMEA7,EMEA,Private Cloud,Q1 2024,Tech,183700.15,Negotiation,Outbound,1,123,0.96,32.34,No,1,81
+APAC1,APAC,Ubuntu OS,Q1 2024,Finance,93900.0,Closed-Lost,Outbound,1,165,0.23,17.27,No,7,65
+NA9,North America,AI and Data,Q2 2024,Finance,178154.67,Proposal Sent,Outbound,4,19,0.42,58.12,No,9,26
+EMEA7,EMEA,Ubuntu OS,Q2 2024,Healthcare,243993.35,Negotiation,Outbound,5,70,0.76,94.21,No,26,87
+NA10,North America,IoT and edge,Q1 2024,Manufacturing,95858.49,Closed-Won,Inbound,3,117,0.69,68.77,Yes,15,78
+APAC6,APAC,Hardware,Q4 2024,Education,110099.27,Closed-Lost,Event,2,29,0.53,8.74,No,20,20
+EMEA7,EMEA,AI and Data,Q2 2024,Finance,194636.12,Negotiation,Outbound,1,111,0.38,3.4,No,42,39
+EMEA5,EMEA,Security and Support,Q4 2024,Manufacturing,16978.31,Closed-Lost,Outbound,3,147,0.57,80.27,No,14,96
+NA9,North America,Kubernetes,Q4 2024,Manufacturing,39482.09,Proposal Sent,Referral,3,60,0.97,97.7,Yes,25,62
+LATAM10,LATAM,Ubuntu OS,Q3 2024,Education,45216.5,Closed-Won,Event,4,150,0.01,32.21,Yes,4,54
+LATAM3,LATAM,Kubernetes,Q1 2024,Tech,180566.0,Proposal Sent,Outbound,1,89,0.62,57.9,No,32,14
+NA4,North America,Ubuntu OS,Q4 2024,Finance,243210.45,Proposal Sent,Partner,5,127,0.52,13.32,Yes,13,15
+LATAM7,LATAM,Public Cloud,Q1 2024,Manufacturing,30916.7,Closed-Lost,Referral,1,180,0.35,56.36,No,25,44
+EMEA5,EMEA,Hardware,Q1 2024,Retail,207816.29,Closed-Won,Partner,5,45,0.48,24.41,No,5,94
+NA10,North America,Developer Tools,Q1 2024,Healthcare,122231.93,Closed-Lost,Referral,4,179,0.7,12.65,No,45,8
+APAC9,APAC,Security and Support,Q4 2024,Healthcare,243282.49,Closed-Lost,Partner,5,41,0.45,39.06,No,1,41
+LATAM7,LATAM,Public Cloud,Q1 2024,Retail,77058.34,Closed-Lost,Outbound,1,85,0.98,91.91,No,7,48
+EMEA3,EMEA,Hardware,Q3 2024,Healthcare,198317.52,Negotiation,Event,2,177,0.11,6.39,Yes,39,66
+APAC5,APAC,Public Cloud,Q2 2024,Healthcare,76726.79,Negotiation,Outbound,3,99,0.31,37.38,Yes,22,6
+NA7,North America,Virtualisation,Q2 2024,Education,157191.93,Closed-Won,Referral,1,131,0.7,24.06,Yes,48,70
+NA2,North America,Ubuntu OS,Q1 2024,Healthcare,222216.34,Negotiation,Inbound,1,114,0.26,81.92,Yes,41,72
+LATAM2,LATAM,Hardware,Q2 2024,Manufacturing,117055.75,Closed-Lost,Inbound,3,157,0.74,23.97,No,34,81
+NA1,North America,Public Cloud,Q4 2024,Education,16679.42,Proposal Sent,Partner,2,142,0.98,60.44,No,11,66
+EMEA8,EMEA,Hardware,Q1 2024,Tech,169045.35,Proposal Sent,Event,4,44,0.11,98.98,Yes,12,34
+APAC2,APAC,Hardware,Q3 2024,Healthcare,52931.31,Closed-Won,Partner,1,165,0.37,64.01,No,34,78
+LATAM10,LATAM,AI and Data,Q2 2024,Manufacturing,163385.08,Closed-Won,Inbound,2,88,0.14,77.99,No,5,37
+NA4,North America,Developer Tools,Q2 2024,Tech,214676.99,Closed-Won,Outbound,3,99,0.51,46.43,No,20,65
+APAC5,APAC,Virtualisation,Q2 2024,Tech,21599.39,Negotiation,Referral,1,178,0.41,76.4,Yes,29,27
+EMEA3,EMEA,Developer Tools,Q2 2024,Retail,168404.18,Closed-Lost,Partner,3,62,0.18,59.7,Yes,33,4
+APAC9,APAC,Virtualisation,Q2 2024,Education,54158.0,Closed-Won,Partner,2,25,0.07,98.87,No,27,79
+APAC7,APAC,Kubernetes,Q2 2024,Finance,22765.73,Closed-Lost,Referral,1,171,0.56,46.06,Yes,11,32
+NA4,North America,Public Cloud,Q4 2024,Healthcare,15794.7,Proposal Sent,Referral,5,142,0.24,79.56,Yes,32,9
+NA1,North America,Ubuntu OS,Q2 2024,Manufacturing,141860.25,Proposal Sent,Event,3,51,0.28,14.4,Yes,17,72
+NA9,North America,IoT and edge,Q1 2024,Healthcare,157794.83,Proposal Sent,Partner,3,15,0.89,96.94,Yes,25,27
+APAC9,APAC,Public Cloud,Q3 2024,Tech,123962.22,Closed-Lost,Inbound,3,118,0.36,20.33,Yes,17,98
+NA6,North America,Private Cloud,Q1 2024,Tech,51248.18,Negotiation,Outbound,4,39,0.69,54.35,No,9,55
+EMEA4,EMEA,Developer Tools,Q3 2024,Manufacturing,197247.07,Closed-Won,Outbound,4,13,0.22,54.41,Yes,14,30
+NA9,North America,Public Cloud,Q4 2024,Finance,176851.11,Closed-Lost,Inbound,1,87,0.48,52.98,Yes,23,1
+NA9,North America,Ubuntu OS,Q3 2024,Tech,223858.25,Closed-Won,Partner,1,163,0.88,95.63,Yes,16,14
+EMEA7,EMEA,Kubernetes,Q1 2024,Manufacturing,6892.53,Closed-Lost,Inbound,4,31,0.71,1.59,Yes,16,19
+NA2,North America,Developer Tools,Q4 2024,Retail,84787.86,Closed-Lost,Outbound,2,34,0.59,13.74,Yes,35,59
+APAC10,APAC,IoT and edge,Q3 2024,Retail,92688.33,Proposal Sent,Referral,3,57,0.17,6.36,Yes,17,81
+NA5,North America,IoT and edge,Q1 2024,Manufacturing,48466.09,Closed-Won,Referral,3,112,0.86,38.07,Yes,49,56
+EMEA2,EMEA,Private Cloud,Q4 2024,Healthcare,82276.95,Negotiation,Event,5,123,0.25,51.48,No,29,74
+EMEA7,EMEA,Ubuntu OS,Q3 2024,Finance,180679.6,Closed-Won,Partner,2,96,0.58,75.76,No,11,45
+EMEA10,EMEA,Ubuntu OS,Q3 2024,Healthcare,19010.06,Closed-Lost,Partner,2,175,0.58,49.47,Yes,7,31
+NA5,North America,Hardware,Q4 2024,Manufacturing,24583.13,Negotiation,Inbound,5,177,0.5,20.18,No,30,71
+EMEA6,EMEA,Virtualisation,Q2 2024,Healthcare,149615.88,Negotiation,Event,4,147,0.05,57.03,No,45,21
+EMEA7,EMEA,Developer Tools,Q2 2024,Tech,75941.56,Proposal Sent,Referral,5,119,0.77,94.22,Yes,6,74
+EMEA1,EMEA,Private Cloud,Q4 2024,Healthcare,45573.22,Closed-Won,Inbound,2,77,0.68,19.55,Yes,3,60
+EMEA4,EMEA,IoT and edge,Q2 2024,Healthcare,207683.12,Closed-Lost,Event,1,131,0.1,54.3,No,31,62
+EMEA3,EMEA,Private Cloud,Q3 2024,Tech,226989.81,Closed-Won,Outbound,2,148,0.39,59.0,No,9,66
+APAC8,APAC,Developer Tools,Q3 2024,Tech,39849.91,Proposal Sent,Inbound,5,139,0.78,41.05,Yes,11,1
+EMEA6,EMEA,Private Cloud,Q3 2024,Finance,174703.53,Closed-Won,Partner,4,109,0.52,73.38,Yes,50,36
+APAC5,APAC,Developer Tools,Q4 2024,Tech,145742.63,Closed-Won,Referral,5,111,0.08,45.33,Yes,13,80
+EMEA8,EMEA,Virtualisation,Q3 2024,Tech,126939.65,Closed-Won,Inbound,5,78,0.48,44.84,Yes,15,47
+EMEA1,EMEA,Private Cloud,Q4 2024,Retail,74242.39,Closed-Won,Event,3,102,0.88,0.23,No,4,43
+APAC4,APAC,Hardware,Q1 2024,Retail,175218.88,Closed-Won,Outbound,5,91,0.22,0.87,No,30,72
+NA4,North America,Hardware,Q4 2024,Retail,103740.95,Closed-Lost,Referral,4,55,0.95,17.38,Yes,31,45
+NA2,North America,Private Cloud,Q4 2024,Healthcare,175446.38,Closed-Won,Referral,3,121,0.73,5.83,No,4,58
+LATAM1,LATAM,Security and Support,Q3 2024,Manufacturing,147140.2,Proposal Sent,Referral,5,120,0.06,12.42,Yes,41,14
+NA7,North America,Ubuntu OS,Q3 2024,Finance,232981.93,Proposal Sent,Event,3,136,0.22,96.86,Yes,11,96
+APAC10,APAC,Security and Support,Q4 2024,Manufacturing,166964.26,Closed-Won,Outbound,1,66,0.96,89.1,Yes,33,12
+NA2,North America,Security and Support,Q2 2024,Healthcare,16555.26,Negotiation,Inbound,2,133,0.33,24.57,No,16,93
+APAC2,APAC,Ubuntu OS,Q4 2024,Tech,125876.93,Closed-Lost,Partner,2,118,0.17,50.93,Yes,27,59
+LATAM7,LATAM,IoT and edge,Q2 2024,Finance,209905.17,Closed-Won,Partner,5,101,0.89,76.9,No,25,56
+LATAM10,LATAM,Developer Tools,Q1 2024,Finance,93778.06,Negotiation,Referral,3,45,0.93,6.5,No,31,31
+NA7,North America,Private Cloud,Q4 2024,Tech,81443.07,Proposal Sent,Event,2,148,0.82,64.99,Yes,50,5
+APAC3,APAC,Private Cloud,Q4 2024,Education,141233.31,Proposal Sent,Event,4,57,0.92,84.98,No,1,97
+APAC1,APAC,IoT and edge,Q1 2024,Healthcare,112926.34,Closed-Won,Inbound,2,74,0.27,88.21,No,30,46
+NA6,North America,AI and Data,Q2 2024,Education,54676.05,Closed-Lost,Outbound,4,177,0.52,59.59,No,34,8
+LATAM8,LATAM,Developer Tools,Q3 2024,Finance,28114.23,Closed-Lost,Partner,4,166,0.12,3.77,Yes,41,75
+EMEA6,EMEA,Virtualisation,Q3 2024,Manufacturing,147119.32,Closed-Won,Referral,3,84,0.17,45.29,No,5,38
+LATAM4,LATAM,Kubernetes,Q1 2024,Tech,164314.18,Closed-Lost,Event,5,123,0.47,64.0,Yes,32,54
+APAC6,APAC,Security and Support,Q2 2024,Manufacturing,150785.45,Proposal Sent,Partner,2,30,0.85,94.73,No,34,62
+NA9,North America,Hardware,Q4 2024,Education,60924.9,Closed-Lost,Inbound,3,169,0.62,38.94,Yes,7,54
+EMEA8,EMEA,Ubuntu OS,Q3 2024,Tech,143899.83,Closed-Won,Event,3,15,0.36,21.07,Yes,48,31
+EMEA6,EMEA,Developer Tools,Q1 2024,Retail,16375.97,Proposal Sent,Referral,3,161,0.82,63.15,Yes,36,45
+EMEA1,EMEA,Virtualisation,Q2 2024,Healthcare,64171.3,Proposal Sent,Event,1,150,0.68,38.73,Yes,45,50
+APAC6,APAC,Public Cloud,Q2 2024,Manufacturing,136922.2,Closed-Lost,Inbound,4,120,0.36,41.15,Yes,36,58
+LATAM7,LATAM,Developer Tools,Q3 2024,Education,221525.78,Closed-Won,Inbound,3,111,0.72,88.51,Yes,16,98
+APAC3,APAC,Hardware,Q2 2024,Healthcare,84802.0,Closed-Won,Referral,2,79,0.39,34.95,No,43,11
+APAC10,APAC,Hardware,Q4 2024,Manufacturing,175229.6,Negotiation,Referral,4,80,0.68,62.02,Yes,16,5
+APAC6,APAC,Security and Support,Q1 2024,Manufacturing,162168.05,Negotiation,Inbound,5,121,0.45,2.58,Yes,40,25
+NA3,North America,Security and Support,Q4 2024,Education,212443.96,Proposal Sent,Referral,3,82,0.32,91.74,Yes,15,50
+EMEA4,EMEA,Security and Support,Q1 2024,Education,218969.37,Closed-Lost,Referral,4,78,0.68,57.38,No,46,77
+EMEA1,EMEA,Security and Support,Q2 2024,Manufacturing,248011.07,Negotiation,Inbound,1,165,0.25,97.39,No,40,43
+EMEA3,EMEA,Ubuntu OS,Q2 2024,Retail,201452.22,Closed-Lost,Referral,3,19,0.45,22.78,No,30,14
+EMEA4,EMEA,AI and Data,Q1 2024,Education,16722.04,Closed-Lost,Partner,4,153,0.58,42.67,No,12,14
+APAC1,APAC,Ubuntu OS,Q1 2024,Retail,46172.11,Negotiation,Referral,1,61,0.78,97.13,No,4,85
+APAC6,APAC,Private Cloud,Q2 2024,Education,179787.02,Closed-Won,Inbound,2,113,0.3,55.28,Yes,7,16
+NA2,North America,AI and Data,Q3 2024,Tech,143233.76,Closed-Lost,Outbound,1,132,0.55,80.85,Yes,32,6
+LATAM3,LATAM,IoT and edge,Q3 2024,Manufacturing,99132.47,Negotiation,Inbound,1,160,0.07,31.76,No,36,45
+APAC1,APAC,Kubernetes,Q4 2024,Tech,65090.52,Negotiation,Event,4,170,0.05,73.06,Yes,3,16
+LATAM3,LATAM,Kubernetes,Q2 2024,Retail,210700.49,Proposal Sent,Outbound,5,51,0.95,47.42,Yes,49,88
+NA7,North America,Developer Tools,Q4 2024,Education,19397.55,Proposal Sent,Outbound,3,149,0.23,55.84,Yes,17,44
+LATAM4,LATAM,Ubuntu OS,Q1 2024,Education,113966.24,Negotiation,Event,2,86,0.34,63.4,No,39,32
+LATAM7,LATAM,Virtualisation,Q2 2024,Retail,87498.28,Closed-Won,Referral,4,151,0.53,83.63,Yes,15,12
+EMEA4,EMEA,Developer Tools,Q3 2024,Education,202101.82,Closed-Won,Referral,4,23,0.89,93.85,Yes,43,43
+LATAM2,LATAM,Developer Tools,Q2 2024,Education,193822.93,Proposal Sent,Inbound,3,120,0.85,96.05,No,8,23
+APAC3,APAC,IoT and edge,Q3 2024,Education,166140.77,Proposal Sent,Event,2,69,0.17,15.12,No,25,89
+NA2,North America,AI and Data,Q2 2024,Education,131943.22,Closed-Won,Event,4,173,0.21,36.05,No,20,45
+EMEA10,EMEA,Hardware,Q4 2024,Healthcare,45825.72,Negotiation,Referral,4,20,0.7,54.61,Yes,49,73
+NA5,North America,Hardware,Q2 2024,Tech,155905.52,Closed-Won,Outbound,3,151,0.18,92.23,Yes,30,38
+LATAM1,LATAM,AI and Data,Q1 2024,Finance,96056.04,Negotiation,Partner,4,46,0.04,65.8,No,13,21
+EMEA6,EMEA,Developer Tools,Q1 2024,Retail,191634.79,Negotiation,Outbound,5,143,0.67,59.66,Yes,1,45
+APAC1,APAC,Private Cloud,Q2 2024,Healthcare,169275.71,Negotiation,Inbound,3,12,0.59,56.45,No,44,24
+NA10,North America,Kubernetes,Q1 2024,Finance,62591.56,Negotiation,Outbound,2,114,0.26,23.65,Yes,21,95
+NA4,North America,AI and Data,Q2 2024,Manufacturing,31426.12,Proposal Sent,Outbound,2,64,0.46,33.48,Yes,32,32
+NA1,North America,Security and Support,Q3 2024,Tech,143068.19,Closed-Lost,Event,4,29,0.94,66.3,Yes,43,4
+APAC6,APAC,AI and Data,Q1 2024,Finance,242203.39,Closed-Lost,Referral,1,117,0.62,22.57,No,45,86
+LATAM1,LATAM,Private Cloud,Q1 2024,Tech,197798.03,Proposal Sent,Referral,3,53,0.7,26.16,No,23,59
+APAC5,APAC,AI and Data,Q2 2024,Education,165162.65,Negotiation,Event,2,41,0.97,49.95,Yes,30,13
+APAC6,APAC,Security and Support,Q3 2024,Finance,155870.73,Proposal Sent,Outbound,3,91,0.93,33.71,Yes,7,45
+APAC2,APAC,Kubernetes,Q3 2024,Tech,204580.33,Closed-Won,Outbound,3,56,0.84,1.1,No,20,84
+LATAM7,LATAM,IoT and edge,Q3 2024,Tech,121868.94,Proposal Sent,Referral,3,167,0.46,64.5,Yes,19,43
+LATAM8,LATAM,IoT and edge,Q3 2024,Healthcare,245331.0,Negotiation,Outbound,5,10,0.27,88.28,No,37,65
+APAC2,APAC,Hardware,Q2 2024,Finance,14662.42,Negotiation,Event,3,83,0.48,53.69,No,44,31
+LATAM3,LATAM,Ubuntu OS,Q4 2024,Tech,91184.92,Closed-Won,Outbound,4,83,0.56,0.13,No,34,63
+NA6,North America,Kubernetes,Q1 2024,Education,190548.54,Closed-Won,Referral,5,153,0.81,20.49,Yes,4,74
+NA9,North America,Public Cloud,Q2 2024,Manufacturing,183658.18,Negotiation,Inbound,4,120,0.9,24.44,Yes,11,25
+EMEA4,EMEA,Kubernetes,Q1 2024,Tech,115460.61,Closed-Won,Inbound,2,51,0.87,44.41,No,40,43
+APAC5,APAC,Public Cloud,Q3 2024,Retail,80483.43,Closed-Lost,Outbound,2,52,0.66,21.12,No,33,34
+NA7,North America,Ubuntu OS,Q1 2024,Tech,217964.68,Negotiation,Inbound,4,85,0.04,20.49,Yes,22,58
+NA2,North America,AI and Data,Q3 2024,Retail,214826.75,Negotiation,Referral,5,179,0.09,3.9,Yes,29,75
+EMEA1,EMEA,Developer Tools,Q3 2024,Retail,146919.86,Proposal Sent,Outbound,2,111,0.91,41.84,No,32,29
+LATAM3,LATAM,IoT and edge,Q1 2024,Healthcare,187134.19,Closed-Lost,Outbound,4,71,0.53,68.16,Yes,21,72
+NA10,North America,Ubuntu OS,Q4 2024,Tech,128524.94,Closed-Won,Event,1,11,0.17,66.0,No,12,42
+EMEA9,EMEA,Private Cloud,Q1 2024,Retail,125886.11,Closed-Lost,Referral,1,18,0.21,48.05,No,45,81
+EMEA8,EMEA,Virtualisation,Q3 2024,Retail,148632.42,Closed-Won,Inbound,1,34,0.48,15.64,Yes,43,70
+APAC5,APAC,Public Cloud,Q4 2024,Retail,24296.06,Closed-Won,Referral,3,144,0.54,87.21,No,12,50
+EMEA9,EMEA,Hardware,Q3 2024,Finance,215260.28,Negotiation,Inbound,4,143,0.63,87.66,No,13,98
+EMEA8,EMEA,Ubuntu OS,Q4 2024,Manufacturing,169518.94,Closed-Lost,Event,3,67,0.29,82.66,No,21,26
+EMEA7,EMEA,Developer Tools,Q4 2024,Education,42342.27,Closed-Won,Referral,4,112,0.23,47.83,Yes,44,76
+NA8,North America,Private Cloud,Q2 2024,Tech,203064.62,Proposal Sent,Event,5,15,0.98,31.61,Yes,50,22
+EMEA6,EMEA,Hardware,Q4 2024,Tech,111958.49,Closed-Lost,Partner,3,61,0.73,45.61,Yes,4,36
+LATAM10,LATAM,IoT and edge,Q2 2024,Healthcare,155245.94,Negotiation,Referral,1,165,0.78,59.2,Yes,40,15
+APAC1,APAC,IoT and edge,Q3 2024,Education,139142.78,Proposal Sent,Inbound,5,133,0.39,84.28,No,23,11
+NA10,North America,Private Cloud,Q4 2024,Manufacturing,149439.49,Closed-Won,Referral,4,53,0.09,58.7,No,16,36
+NA3,North America,Private Cloud,Q2 2024,Tech,32708.02,Proposal Sent,Partner,1,123,0.63,23.12,No,41,27
+LATAM9,LATAM,AI and Data,Q4 2024,Finance,206645.84,Proposal Sent,Partner,1,172,0.82,25.55,Yes,24,35
+APAC2,APAC,Security and Support,Q4 2024,Education,1792.44,Negotiation,Referral,1,55,0.34,46.52,No,5,91
+LATAM2,LATAM,Security and Support,Q2 2024,Healthcare,173445.04,Proposal Sent,Partner,2,178,0.61,53.03,Yes,15,5
+LATAM3,LATAM,AI and Data,Q1 2024,Healthcare,181231.98,Negotiation,Referral,3,173,0.03,24.02,Yes,29,73
+EMEA9,EMEA,Ubuntu OS,Q3 2024,Tech,211007.27,Closed-Won,Outbound,1,98,0.86,19.92,Yes,16,43
+EMEA7,EMEA,Hardware,Q1 2024,Tech,187389.36,Closed-Won,Referral,2,29,0.59,86.02,No,36,94
+EMEA4,EMEA,Security and Support,Q3 2024,Tech,220052.27,Closed-Won,Referral,2,93,0.85,85.67,Yes,29,68
+NA10,North America,IoT and edge,Q1 2024,Manufacturing,121115.51,Proposal Sent,Outbound,5,165,0.78,55.31,Yes,45,59
+APAC8,APAC,Hardware,Q1 2024,Finance,115812.0,Closed-Lost,Partner,4,128,0.05,80.64,No,27,17
+LATAM4,LATAM,Private Cloud,Q3 2024,Education,144161.96,Negotiation,Referral,5,35,0.62,60.42,No,26,77
+EMEA4,EMEA,Hardware,Q4 2024,Manufacturing,93313.1,Proposal Sent,Inbound,3,93,0.15,5.93,No,33,46
+NA4,North America,Public Cloud,Q4 2024,Tech,189567.21,Proposal Sent,Event,2,93,0.94,13.03,Yes,20,66
+LATAM2,LATAM,Private Cloud,Q2 2024,Manufacturing,213732.36,Closed-Lost,Referral,2,70,0.56,69.39,Yes,11,46
+NA1,North America,Private Cloud,Q3 2024,Finance,11154.51,Proposal Sent,Outbound,1,41,0.55,10.02,Yes,20,44
+NA5,North America,Virtualisation,Q1 2024,Retail,129286.36,Negotiation,Partner,1,126,0.54,57.61,No,49,11
+APAC1,APAC,Developer Tools,Q3 2024,Manufacturing,1208.11,Proposal Sent,Referral,4,13,1.0,39.91,Yes,32,6
+LATAM10,LATAM,Security and Support,Q1 2024,Healthcare,54686.36,Negotiation,Outbound,3,123,0.52,85.65,No,3,33
+LATAM1,LATAM,Developer Tools,Q3 2024,Retail,172860.21,Closed-Won,Referral,3,140,0.64,12.0,No,45,37
+LATAM3,LATAM,Hardware,Q1 2024,Manufacturing,49022.16,Closed-Lost,Referral,3,28,0.23,50.32,No,30,51
+APAC10,APAC,Ubuntu OS,Q3 2024,Finance,36837.55,Closed-Won,Outbound,1,51,0.79,87.7,Yes,32,63
+NA1,North America,Private Cloud,Q1 2024,Tech,214088.81,Negotiation,Referral,5,140,0.61,3.72,No,37,92
+EMEA5,EMEA,Hardware,Q3 2024,Tech,222900.22,Closed-Won,Inbound,3,105,0.3,1.0,No,5,2
+APAC9,APAC,IoT and edge,Q2 2024,Manufacturing,146738.69,Proposal Sent,Inbound,5,26,0.6,93.99,No,48,70
+EMEA1,EMEA,AI and Data,Q1 2024,Retail,27691.99,Closed-Won,Referral,2,117,0.73,42.97,Yes,10,32
+NA9,North America,Developer Tools,Q3 2024,Education,150779.67,Closed-Won,Partner,2,85,0.98,36.71,Yes,46,90
+NA5,North America,Virtualisation,Q1 2024,Healthcare,132228.03,Closed-Won,Event,4,178,0.78,81.55,Yes,38,89
+EMEA8,EMEA,AI and Data,Q1 2024,Healthcare,220289.39,Negotiation,Event,5,128,0.47,69.33,No,41,81
+EMEA7,EMEA,Security and Support,Q2 2024,Healthcare,100138.94,Closed-Won,Event,3,54,0.76,41.45,Yes,5,1
+EMEA4,EMEA,Developer Tools,Q4 2024,Tech,32890.27,Closed-Lost,Event,4,105,0.36,33.72,Yes,19,30
+APAC4,APAC,Hardware,Q1 2024,Finance,243574.27,Closed-Won,Outbound,3,102,0.01,91.85,No,36,14
+NA4,North America,Developer Tools,Q4 2024,Finance,94543.73,Negotiation,Outbound,3,77,0.82,97.17,Yes,12,30
+NA5,North America,Security and Support,Q3 2024,Finance,85204.65,Closed-Lost,Event,3,136,0.79,52.77,No,43,11
+APAC5,APAC,Hardware,Q2 2024,Education,159466.29,Proposal Sent,Inbound,5,66,0.77,48.65,Yes,34,6
+APAC9,APAC,IoT and edge,Q3 2024,Finance,186634.88,Negotiation,Referral,3,159,0.57,14.73,Yes,49,66
+EMEA3,EMEA,Hardware,Q4 2024,Healthcare,162630.52,Closed-Won,Referral,1,13,0.66,3.52,No,6,39
+NA6,North America,Developer Tools,Q2 2024,Education,210989.85,Proposal Sent,Event,1,98,0.17,34.42,Yes,45,71
+EMEA7,EMEA,Virtualisation,Q3 2024,Education,84681.96,Proposal Sent,Referral,5,173,0.61,18.75,No,21,9
+APAC3,APAC,Security and Support,Q1 2024,Finance,198659.1,Negotiation,Event,3,161,0.22,3.34,No,25,38
+EMEA3,EMEA,Security and Support,Q4 2024,Healthcare,96323.85,Closed-Won,Referral,5,160,0.38,49.08,Yes,26,88
+APAC7,APAC,Public Cloud,Q4 2024,Tech,233373.29,Closed-Won,Referral,5,53,0.88,67.36,Yes,49,99
+EMEA9,EMEA,Kubernetes,Q1 2024,Healthcare,135069.63,Proposal Sent,Partner,2,122,0.26,91.97,Yes,20,13
+APAC9,APAC,Kubernetes,Q2 2024,Manufacturing,23928.88,Closed-Won,Event,3,45,0.49,31.72,Yes,23,50
+LATAM6,LATAM,Ubuntu OS,Q4 2024,Retail,197954.25,Negotiation,Outbound,2,65,0.59,83.07,No,23,98
+LATAM1,LATAM,Public Cloud,Q1 2024,Retail,194317.99,Closed-Won,Event,1,46,0.78,89.07,No,49,52
+NA9,North America,Virtualisation,Q1 2024,Tech,41547.12,Negotiation,Outbound,2,116,0.96,66.82,Yes,5,3
+NA6,North America,Kubernetes,Q3 2024,Education,217394.2,Closed-Won,Event,2,107,0.85,57.56,No,25,6
+APAC9,APAC,Kubernetes,Q4 2024,Tech,150115.64,Closed-Won,Partner,4,171,0.84,13.73,No,44,47
+EMEA1,EMEA,Private Cloud,Q4 2024,Tech,223954.94,Closed-Won,Partner,3,169,0.64,12.28,Yes,4,8
+NA3,North America,Private Cloud,Q3 2024,Retail,150679.95,Proposal Sent,Inbound,2,40,0.91,29.45,Yes,27,65
+NA9,North America,Kubernetes,Q2 2024,Finance,139594.17,Proposal Sent,Outbound,1,14,0.05,65.09,Yes,16,51
+APAC1,APAC,Ubuntu OS,Q2 2024,Tech,58005.75,Negotiation,Inbound,3,18,0.85,49.5,No,41,47
+APAC8,APAC,Kubernetes,Q3 2024,Tech,94065.16,Negotiation,Inbound,4,55,0.13,6.59,Yes,10,89
+APAC1,APAC,Security and Support,Q2 2024,Healthcare,129745.48,Closed-Lost,Partner,4,43,0.87,7.47,No,48,14
+LATAM10,LATAM,Public Cloud,Q1 2024,Tech,63214.17,Closed-Won,Partner,1,80,0.92,67.37,No,32,83
+APAC7,APAC,Virtualisation,Q3 2024,Manufacturing,228016.3,Proposal Sent,Referral,2,38,0.51,87.19,Yes,34,10
+NA6,North America,Kubernetes,Q4 2024,Finance,221403.59,Closed-Won,Outbound,1,119,0.89,43.14,Yes,40,36
+EMEA3,EMEA,Hardware,Q4 2024,Finance,57401.91,Proposal Sent,Referral,3,60,0.93,44.78,No,34,59
+EMEA9,EMEA,Kubernetes,Q2 2024,Manufacturing,148934.75,Closed-Won,Partner,5,44,0.06,29.4,Yes,38,91
+LATAM4,LATAM,Public Cloud,Q3 2024,Tech,226565.58,Negotiation,Partner,2,12,0.49,40.86,Yes,48,74
+LATAM3,LATAM,Security and Support,Q3 2024,Finance,12880.61,Closed-Won,Partner,3,42,0.35,3.4,No,17,94
+LATAM5,LATAM,Ubuntu OS,Q2 2024,Healthcare,51058.48,Proposal Sent,Partner,3,152,0.39,21.42,No,37,76
+EMEA4,EMEA,Public Cloud,Q4 2024,Manufacturing,151268.32,Proposal Sent,Outbound,3,79,0.79,57.78,No,34,23
+APAC4,APAC,IoT and edge,Q4 2024,Education,76939.63,Closed-Won,Event,2,100,0.35,65.2,No,31,75
+LATAM2,LATAM,Hardware,Q1 2024,Tech,101693.56,Closed-Lost,Outbound,5,59,0.85,55.8,Yes,30,55
+APAC5,APAC,IoT and edge,Q1 2024,Retail,7408.62,Closed-Won,Event,2,161,0.91,65.27,No,6,31
+EMEA2,EMEA,Developer Tools,Q1 2024,Tech,204664.29,Closed-Won,Inbound,3,41,0.21,82.69,No,9,20
+LATAM7,LATAM,IoT and edge,Q1 2024,Healthcare,83614.36,Closed-Won,Referral,2,66,0.92,38.45,Yes,6,45
+EMEA7,EMEA,Kubernetes,Q1 2024,Retail,24867.79,Closed-Won,Outbound,4,138,0.54,93.84,Yes,22,66
+EMEA1,EMEA,Ubuntu OS,Q4 2024,Retail,140419.46,Negotiation,Outbound,4,50,0.86,40.15,No,43,59
+EMEA6,EMEA,Ubuntu OS,Q4 2024,Education,141577.33,Negotiation,Event,3,48,0.6,33.82,Yes,26,60
+LATAM6,LATAM,AI and Data,Q3 2024,Finance,158016.98,Closed-Won,Inbound,2,64,0.36,22.23,No,48,71
+NA9,North America,Developer Tools,Q4 2024,Retail,135275.55,Proposal Sent,Referral,3,155,0.41,85.35,Yes,18,5
+LATAM8,LATAM,Public Cloud,Q4 2024,Retail,239196.07,Closed-Won,Event,2,143,0.26,33.42,No,35,93
+EMEA6,EMEA,Public Cloud,Q1 2024,Manufacturing,136123.84,Proposal Sent,Outbound,1,35,0.47,39.42,No,29,29
+LATAM2,LATAM,AI and Data,Q4 2024,Retail,160203.55,Proposal Sent,Outbound,3,42,0.89,43.38,Yes,42,46
+EMEA3,EMEA,Hardware,Q3 2024,Education,47311.4,Closed-Won,Referral,5,36,0.45,74.4,Yes,14,74
+LATAM7,LATAM,Hardware,Q1 2024,Education,217570.98,Closed-Lost,Partner,4,94,0.24,6.2,Yes,13,15
+NA7,North America,IoT and edge,Q2 2024,Finance,206811.02,Negotiation,Referral,1,74,0.51,89.27,Yes,48,3
+LATAM8,LATAM,IoT and edge,Q3 2024,Healthcare,189795.3,Proposal Sent,Outbound,2,97,0.19,68.45,No,46,45
+LATAM9,LATAM,Security and Support,Q3 2024,Education,164780.07,Closed-Lost,Event,4,84,0.45,26.09,No,28,98
+APAC8,APAC,Public Cloud,Q2 2024,Retail,177540.02,Proposal Sent,Inbound,1,121,0.04,29.45,No,20,56
+EMEA1,EMEA,Virtualisation,Q3 2024,Finance,224744.9,Closed-Lost,Inbound,2,17,0.77,66.58,Yes,17,34
+NA5,North America,Public Cloud,Q3 2024,Tech,98926.35,Proposal Sent,Outbound,2,145,0.87,71.32,No,40,7
+APAC5,APAC,IoT and edge,Q3 2024,Retail,96492.72,Proposal Sent,Outbound,2,80,0.03,58.47,Yes,12,28
+EMEA9,EMEA,Ubuntu OS,Q4 2024,Retail,222708.29,Proposal Sent,Inbound,2,25,0.79,30.51,Yes,49,35
+LATAM9,LATAM,IoT and edge,Q4 2024,Manufacturing,200151.4,Closed-Won,Referral,3,125,0.4,17.85,Yes,26,95
+APAC3,APAC,Hardware,Q2 2024,Tech,64063.51,Closed-Lost,Event,1,101,0.03,78.43,No,10,15
+APAC2,APAC,Security and Support,Q3 2024,Healthcare,184148.54,Negotiation,Partner,1,134,0.73,63.9,No,26,48
+APAC3,APAC,Public Cloud,Q1 2024,Retail,67075.63,Closed-Lost,Referral,2,96,0.34,55.15,No,42,94
+LATAM3,LATAM,Developer Tools,Q3 2024,Finance,191311.4,Proposal Sent,Referral,3,67,0.27,57.07,Yes,17,61
+LATAM10,LATAM,Kubernetes,Q2 2024,Manufacturing,239753.89,Proposal Sent,Event,5,177,0.88,2.8,No,11,97
+EMEA6,EMEA,Hardware,Q1 2024,Healthcare,26465.49,Closed-Won,Outbound,5,45,0.54,96.95,Yes,24,91
+APAC5,APAC,Security and Support,Q1 2024,Healthcare,49347.25,Negotiation,Referral,3,41,0.77,78.56,No,38,99
+LATAM7,LATAM,Kubernetes,Q2 2024,Healthcare,89875.4,Proposal Sent,Event,3,132,0.16,57.55,No,47,49
+APAC3,APAC,IoT and edge,Q1 2024,Education,118369.8,Closed-Lost,Partner,5,36,0.6,93.98,Yes,14,54
+NA1,North America,Hardware,Q1 2024,Healthcare,225188.37,Closed-Lost,Outbound,4,91,0.67,36.07,Yes,19,24
+LATAM9,LATAM,Private Cloud,Q4 2024,Education,214718.49,Closed-Lost,Event,2,120,0.1,8.3,No,12,26
+LATAM3,LATAM,Ubuntu OS,Q3 2024,Manufacturing,140719.47,Closed-Lost,Referral,4,179,0.04,50.38,Yes,36,93
+LATAM9,LATAM,Developer Tools,Q1 2024,Tech,241280.8,Closed-Won,Inbound,1,60,0.12,78.45,No,4,74
+LATAM3,LATAM,Kubernetes,Q3 2024,Finance,232325.78,Negotiation,Outbound,1,13,0.28,85.31,No,48,66
+EMEA10,EMEA,AI and Data,Q1 2024,Retail,178299.78,Closed-Lost,Event,3,91,0.96,90.17,Yes,33,19
+NA2,North America,Public Cloud,Q1 2024,Education,37714.15,Closed-Lost,Partner,4,45,0.62,77.83,No,14,56
+LATAM9,LATAM,Ubuntu OS,Q2 2024,Tech,101857.22,Proposal Sent,Outbound,1,141,0.93,98.03,No,11,90
+EMEA10,EMEA,Public Cloud,Q4 2024,Manufacturing,239854.02,Negotiation,Referral,3,90,0.46,78.88,No,33,39
+EMEA3,EMEA,Virtualisation,Q4 2024,Manufacturing,185588.38,Negotiation,Partner,4,175,0.13,89.82,Yes,28,34
+NA2,North America,IoT and edge,Q2 2024,Manufacturing,199528.2,Closed-Lost,Partner,2,96,0.84,79.44,No,14,56
+EMEA6,EMEA,Security and Support,Q1 2024,Retail,180458.28,Negotiation,Event,2,88,0.79,94.6,No,31,63
+LATAM10,LATAM,Public Cloud,Q3 2024,Education,41392.54,Proposal Sent,Referral,3,102,0.29,20.97,No,3,87
+EMEA5,EMEA,IoT and edge,Q1 2024,Education,145873.46,Negotiation,Partner,1,97,0.92,19.6,No,8,55
+EMEA6,EMEA,Developer Tools,Q2 2024,Healthcare,122940.32,Negotiation,Outbound,3,171,0.61,94.45,Yes,35,52
+LATAM2,LATAM,AI and Data,Q1 2024,Finance,157719.08,Closed-Lost,Outbound,3,26,0.42,41.18,Yes,25,21
+LATAM2,LATAM,Hardware,Q3 2024,Healthcare,138214.22,Closed-Lost,Referral,4,15,0.53,7.35,Yes,29,32
+APAC8,APAC,Security and Support,Q1 2024,Retail,200177.57,Closed-Lost,Outbound,5,169,0.26,34.65,No,50,16
+APAC6,APAC,Hardware,Q1 2024,Finance,181261.34,Closed-Lost,Event,4,167,0.17,6.68,Yes,37,56
+EMEA3,EMEA,AI and Data,Q1 2024,Healthcare,82915.33,Proposal Sent,Inbound,5,173,0.07,48.58,Yes,47,33
+APAC5,APAC,Developer Tools,Q3 2024,Education,35975.48,Negotiation,Referral,1,174,0.49,52.99,Yes,9,42
+EMEA8,EMEA,AI and Data,Q3 2024,Retail,52098.03,Closed-Won,Partner,2,179,0.54,16.01,No,7,88
+EMEA10,EMEA,AI and Data,Q3 2024,Manufacturing,168556.69,Closed-Won,Referral,2,58,0.33,66.44,Yes,40,42
+NA10,North America,Developer Tools,Q4 2024,Education,234256.73,Negotiation,Outbound,1,155,0.73,82.68,No,44,55
+LATAM8,LATAM,Private Cloud,Q2 2024,Manufacturing,222847.03,Proposal Sent,Event,4,112,0.71,90.79,No,3,55
+APAC5,APAC,Private Cloud,Q2 2024,Manufacturing,181103.51,Proposal Sent,Inbound,5,157,0.4,38.74,No,33,59
+NA3,North America,Virtualisation,Q1 2024,Manufacturing,102519.46,Closed-Lost,Partner,4,48,0.81,97.66,Yes,10,73
+APAC6,APAC,Developer Tools,Q4 2024,Healthcare,83322.84,Closed-Won,Outbound,2,23,0.65,50.5,Yes,22,46
+LATAM8,LATAM,Kubernetes,Q4 2024,Finance,130046.46,Closed-Lost,Partner,3,51,0.69,54.93,No,3,65
+LATAM5,LATAM,Public Cloud,Q2 2024,Education,195200.74,Proposal Sent,Outbound,3,147,0.32,4.44,No,35,19
+APAC9,APAC,IoT and edge,Q3 2024,Retail,143597.42,Closed-Won,Inbound,4,10,0.95,62.48,No,34,5
+NA9,North America,Virtualisation,Q3 2024,Finance,249943.19,Closed-Lost,Referral,2,74,0.13,42.24,No,39,93
+APAC6,APAC,IoT and edge,Q3 2024,Manufacturing,161967.0,Proposal Sent,Inbound,3,166,0.95,14.54,No,15,54
+EMEA1,EMEA,Virtualisation,Q3 2024,Healthcare,97678.51,Negotiation,Partner,5,132,0.03,20.15,No,15,13
+LATAM4,LATAM,AI and Data,Q3 2024,Retail,248244.93,Negotiation,Referral,5,48,0.92,72.41,No,11,21
+APAC3,APAC,Ubuntu OS,Q1 2024,Finance,110488.4,Closed-Lost,Partner,5,98,0.61,58.52,Yes,14,78
+NA2,North America,Developer Tools,Q1 2024,Tech,92810.04,Proposal Sent,Partner,2,176,0.09,77.73,No,7,45
+NA5,North America,Ubuntu OS,Q2 2024,Tech,174364.23,Negotiation,Referral,4,97,0.33,89.75,Yes,27,63
+APAC4,APAC,Ubuntu OS,Q4 2024,Education,155620.83,Closed-Won,Inbound,3,36,0.9,14.2,Yes,35,1
+NA5,North America,Ubuntu OS,Q2 2024,Manufacturing,45224.51,Closed-Lost,Partner,1,105,0.03,3.14,Yes,7,31
+EMEA2,EMEA,Virtualisation,Q4 2024,Healthcare,224598.44,Negotiation,Outbound,1,109,0.41,14.44,Yes,27,25
+NA6,North America,IoT and edge,Q4 2024,Healthcare,223777.13,Negotiation,Partner,4,63,0.95,83.16,Yes,48,44
+NA8,North America,AI and Data,Q4 2024,Healthcare,247278.36,Closed-Lost,Inbound,2,125,0.61,2.48,Yes,33,64
+NA7,North America,IoT and edge,Q1 2024,Healthcare,113283.65,Negotiation,Partner,2,148,0.9,90.38,No,5,65
+LATAM6,LATAM,Private Cloud,Q2 2024,Education,50253.6,Proposal Sent,Event,4,64,0.79,16.33,Yes,18,68
+LATAM4,LATAM,Virtualisation,Q3 2024,Finance,148544.43,Closed-Lost,Outbound,5,93,0.44,12.76,No,13,74
+NA3,North America,Hardware,Q4 2024,Education,118175.5,Proposal Sent,Referral,5,67,0.72,26.85,No,49,66
+APAC5,APAC,AI and Data,Q3 2024,Retail,4824.85,Closed-Won,Outbound,4,25,0.91,54.1,No,50,33
+APAC1,APAC,Kubernetes,Q4 2024,Tech,100891.33,Proposal Sent,Event,4,177,0.14,4.84,Yes,4,38
+EMEA7,EMEA,Virtualisation,Q2 2024,Manufacturing,180974.61,Negotiation,Outbound,1,23,0.75,24.33,Yes,33,98
+APAC1,APAC,IoT and edge,Q1 2024,Healthcare,176071.37,Closed-Lost,Outbound,1,164,0.59,18.22,No,22,81
+LATAM8,LATAM,Ubuntu OS,Q2 2024,Education,139646.52,Negotiation,Outbound,5,175,0.87,31.44,No,33,57
+NA10,North America,Hardware,Q4 2024,Retail,20859.03,Negotiation,Inbound,5,13,0.32,50.61,Yes,33,23
+EMEA2,EMEA,Private Cloud,Q4 2024,Healthcare,233491.21,Negotiation,Outbound,1,177,0.72,24.51,Yes,35,11
+APAC1,APAC,IoT and edge,Q4 2024,Education,227443.24,Negotiation,Partner,4,109,0.67,29.45,No,5,51
+APAC1,APAC,AI and Data,Q1 2024,Finance,204320.41,Proposal Sent,Event,5,67,0.02,32.07,Yes,14,7
+NA2,North America,Virtualisation,Q1 2024,Healthcare,189963.01,Negotiation,Inbound,5,62,0.62,10.25,No,6,40
+EMEA8,EMEA,Developer Tools,Q3 2024,Manufacturing,82805.22,Proposal Sent,Referral,5,78,0.04,27.53,No,44,69
+EMEA9,EMEA,Developer Tools,Q2 2024,Manufacturing,127644.85,Proposal Sent,Referral,2,116,0.81,75.63,Yes,8,14
+LATAM9,LATAM,Public Cloud,Q1 2024,Education,240661.18,Closed-Won,Inbound,1,153,0.74,15.5,No,24,95
+NA5,North America,IoT and edge,Q3 2024,Finance,4117.99,Proposal Sent,Outbound,2,13,0.57,58.4,No,44,46
+EMEA2,EMEA,Public Cloud,Q1 2024,Retail,103158.2,Closed-Lost,Outbound,2,133,0.22,59.42,Yes,35,53
+APAC6,APAC,Developer Tools,Q1 2024,Healthcare,172486.68,Proposal Sent,Inbound,1,112,0.94,35.51,No,44,96
+NA5,North America,Private Cloud,Q3 2024,Finance,243016.24,Negotiation,Outbound,4,125,0.6,71.07,No,22,4
+EMEA3,EMEA,Security and Support,Q2 2024,Tech,13287.86,Closed-Lost,Partner,3,168,0.26,12.7,Yes,10,62
+NA8,North America,Hardware,Q3 2024,Education,212950.38,Proposal Sent,Inbound,5,82,0.01,21.57,Yes,1,61
+NA3,North America,Virtualisation,Q2 2024,Manufacturing,98543.98,Closed-Lost,Partner,3,110,0.54,66.27,Yes,12,83
+NA9,North America,Private Cloud,Q2 2024,Manufacturing,188356.53,Proposal Sent,Outbound,5,114,0.32,33.77,Yes,3,92
+LATAM6,LATAM,Security and Support,Q1 2024,Education,141850.77,Negotiation,Outbound,4,64,0.47,16.21,Yes,39,65
+NA10,North America,Security and Support,Q1 2024,Healthcare,150223.93,Closed-Won,Event,3,92,0.62,34.28,No,1,73
+APAC6,APAC,Security and Support,Q1 2024,Manufacturing,105965.33,Closed-Lost,Outbound,1,176,0.18,71.04,Yes,40,75
+NA4,North America,Private Cloud,Q3 2024,Healthcare,244676.68,Closed-Lost,Partner,4,112,0.55,32.11,Yes,41,26
+APAC3,APAC,Ubuntu OS,Q2 2024,Tech,71538.94,Closed-Won,Partner,3,61,0.37,70.45,No,50,8
+NA4,North America,IoT and edge,Q1 2024,Education,44461.83,Closed-Lost,Event,2,115,0.19,23.97,Yes,15,27
+LATAM4,LATAM,Virtualisation,Q2 2024,Healthcare,91897.84,Proposal Sent,Referral,3,42,0.19,3.21,Yes,35,83
+LATAM5,LATAM,Ubuntu OS,Q4 2024,Tech,43824.82,Closed-Won,Referral,2,117,0.75,56.49,No,46,64
+NA3,North America,Hardware,Q4 2024,Finance,119958.07,Closed-Won,Referral,3,104,0.94,30.68,Yes,2,78
+LATAM9,LATAM,Kubernetes,Q1 2024,Finance,87369.11,Proposal Sent,Partner,1,46,0.95,18.57,No,31,31
+EMEA9,EMEA,Ubuntu OS,Q1 2024,Manufacturing,6234.1,Negotiation,Event,3,50,0.44,60.88,Yes,40,58
+APAC7,APAC,Kubernetes,Q1 2024,Retail,39302.56,Closed-Lost,Inbound,4,35,0.53,18.73,Yes,48,24
+LATAM4,LATAM,AI and Data,Q3 2024,Tech,9843.72,Negotiation,Referral,2,117,0.74,17.43,Yes,31,30
+NA9,North America,Security and Support,Q1 2024,Education,144359.77,Negotiation,Outbound,4,67,0.14,76.16,Yes,21,1
+LATAM3,LATAM,AI and Data,Q4 2024,Tech,140811.04,Proposal Sent,Inbound,3,178,0.77,72.57,No,38,54
+LATAM4,LATAM,AI and Data,Q2 2024,Healthcare,170508.94,Closed-Lost,Inbound,5,13,0.31,63.7,Yes,21,71
+APAC10,APAC,Virtualisation,Q1 2024,Retail,62452.63,Closed-Lost,Inbound,4,79,0.74,91.72,No,8,98
+NA4,North America,Developer Tools,Q2 2024,Education,60980.17,Closed-Lost,Event,2,92,0.9,69.61,No,13,93
+EMEA8,EMEA,Hardware,Q3 2024,Finance,83429.3,Closed-Won,Partner,1,168,0.21,60.1,No,35,66
+APAC2,APAC,Virtualisation,Q1 2024,Healthcare,203113.01,Negotiation,Outbound,2,42,0.11,86.13,No,18,3
+APAC6,APAC,AI and Data,Q1 2024,Healthcare,236611.83,Closed-Won,Partner,3,153,0.58,32.56,No,42,80
+APAC3,APAC,Virtualisation,Q3 2024,Manufacturing,90803.65,Negotiation,Inbound,4,147,0.5,83.36,No,42,61
+EMEA3,EMEA,Private Cloud,Q2 2024,Manufacturing,99806.87,Closed-Won,Referral,2,23,0.66,36.1,No,28,82
+EMEA3,EMEA,Security and Support,Q4 2024,Retail,48422.52,Closed-Lost,Event,1,53,0.39,10.36,No,19,57
+LATAM5,LATAM,AI and Data,Q2 2024,Finance,49960.87,Negotiation,Event,5,107,0.35,92.92,No,10,26
+LATAM8,LATAM,Hardware,Q2 2024,Retail,220287.87,Closed-Won,Event,2,137,0.42,47.69,Yes,14,35
+LATAM4,LATAM,Public Cloud,Q2 2024,Education,161829.06,Closed-Lost,Event,3,167,0.83,86.4,Yes,10,37
+APAC7,APAC,Developer Tools,Q4 2024,Finance,126286.16,Closed-Won,Event,5,123,0.66,93.24,No,23,14
+NA5,North America,Virtualisation,Q1 2024,Healthcare,39603.24,Closed-Lost,Inbound,4,23,0.9,47.77,No,44,10
+NA1,North America,Security and Support,Q4 2024,Tech,244664.84,Closed-Won,Inbound,5,157,0.17,38.89,Yes,46,32
+EMEA6,EMEA,Kubernetes,Q4 2024,Education,157818.45,Closed-Won,Outbound,2,89,0.64,60.28,Yes,42,69
+APAC9,APAC,Security and Support,Q4 2024,Retail,134371.17,Negotiation,Outbound,1,106,0.5,68.21,Yes,8,62
+APAC7,APAC,Security and Support,Q2 2024,Education,195220.84,Closed-Lost,Referral,1,19,0.85,63.89,Yes,43,12
+APAC8,APAC,IoT and edge,Q2 2024,Retail,130906.84,Closed-Won,Referral,2,86,0.37,72.87,No,28,92
+EMEA5,EMEA,Public Cloud,Q1 2024,Healthcare,164924.2,Closed-Won,Outbound,5,107,0.83,37.85,Yes,14,47
+EMEA8,EMEA,Hardware,Q3 2024,Education,59362.73,Closed-Lost,Outbound,5,48,0.09,13.74,Yes,10,9
+LATAM3,LATAM,Virtualisation,Q1 2024,Healthcare,206003.91,Negotiation,Partner,3,142,0.32,39.11,No,41,76
+NA9,North America,Hardware,Q4 2024,Education,116169.43,Closed-Lost,Partner,4,83,0.7,98.46,No,11,12
+EMEA1,EMEA,AI and Data,Q4 2024,Tech,220025.34,Proposal Sent,Partner,5,158,0.86,96.19,No,14,47
+APAC4,APAC,Kubernetes,Q4 2024,Finance,26296.56,Closed-Won,Event,2,111,0.96,70.21,No,40,92
+NA7,North America,Security and Support,Q3 2024,Education,13992.8,Closed-Lost,Partner,3,41,0.7,86.86,Yes,7,57
+EMEA6,EMEA,Developer Tools,Q1 2024,Tech,121078.09,Negotiation,Referral,5,141,0.76,67.13,No,44,66
+EMEA1,EMEA,Ubuntu OS,Q1 2024,Finance,30476.39,Closed-Lost,Inbound,5,92,0.51,80.56,No,1,80
+NA1,North America,IoT and edge,Q4 2024,Education,6979.56,Closed-Won,Event,3,53,0.29,64.34,Yes,37,9
+NA4,North America,Virtualisation,Q1 2024,Finance,109019.27,Closed-Won,Event,3,69,0.37,92.82,Yes,15,78
+NA7,North America,Security and Support,Q3 2024,Healthcare,144075.84,Proposal Sent,Event,2,14,0.5,9.07,No,18,37
+APAC4,APAC,Private Cloud,Q1 2024,Healthcare,184195.1,Closed-Won,Event,3,71,0.25,26.93,No,40,70
+APAC8,APAC,Developer Tools,Q1 2024,Education,67783.67,Closed-Lost,Event,2,71,0.92,48.41,Yes,23,29
+LATAM2,LATAM,Ubuntu OS,Q1 2024,Manufacturing,174350.61,Negotiation,Referral,3,17,0.97,62.49,No,31,96
+EMEA9,EMEA,AI and Data,Q4 2024,Manufacturing,138833.83,Closed-Lost,Referral,4,57,0.93,29.55,Yes,27,17
+APAC9,APAC,AI and Data,Q3 2024,Finance,161247.37,Negotiation,Referral,3,137,0.75,10.55,No,29,76
+LATAM2,LATAM,IoT and edge,Q4 2024,Retail,73343.8,Closed-Won,Outbound,2,54,0.66,90.13,Yes,10,45
+EMEA9,EMEA,Hardware,Q3 2024,Retail,170541.75,Closed-Lost,Partner,4,60,0.37,13.91,No,44,24
+EMEA5,EMEA,Developer Tools,Q4 2024,Healthcare,179774.5,Closed-Won,Outbound,4,69,0.19,20.02,Yes,16,96
+EMEA7,EMEA,AI and Data,Q3 2024,Tech,201783.56,Negotiation,Outbound,5,158,0.52,70.26,No,39,28
+NA6,North America,Ubuntu OS,Q2 2024,Finance,26051.21,Closed-Won,Outbound,4,131,0.39,54.55,Yes,48,66
+APAC6,APAC,IoT and edge,Q4 2024,Manufacturing,151561.08,Closed-Lost,Outbound,2,150,0.59,2.45,No,21,15
+NA9,North America,Kubernetes,Q2 2024,Manufacturing,102497.02,Closed-Won,Event,1,144,0.75,14.87,No,10,28
+APAC5,APAC,IoT and edge,Q2 2024,Tech,86049.31,Proposal Sent,Referral,5,16,0.26,63.55,No,1,74
+LATAM1,LATAM,Developer Tools,Q1 2024,Manufacturing,243822.51,Negotiation,Outbound,1,95,0.07,42.3,No,45,78
+NA1,North America,Hardware,Q3 2024,Tech,163157.26,Closed-Won,Referral,5,87,0.49,43.07,Yes,13,36
+LATAM3,LATAM,Virtualisation,Q1 2024,Manufacturing,95539.3,Proposal Sent,Inbound,5,90,0.08,98.67,No,27,66
+NA5,North America,Ubuntu OS,Q1 2024,Finance,33744.39,Negotiation,Inbound,1,76,0.5,23.65,No,36,67
+LATAM6,LATAM,Security and Support,Q4 2024,Tech,76745.16,Closed-Lost,Referral,1,119,0.52,25.81,No,46,14
+LATAM5,LATAM,Security and Support,Q2 2024,Finance,222475.15,Closed-Lost,Partner,2,78,0.95,83.02,No,17,88
+EMEA5,EMEA,Public Cloud,Q1 2024,Manufacturing,46307.53,Negotiation,Referral,3,20,0.54,4.13,Yes,8,21
+LATAM10,LATAM,AI and Data,Q3 2024,Retail,213708.82,Closed-Lost,Partner,3,171,0.12,94.5,No,37,97
+EMEA9,EMEA,IoT and edge,Q3 2024,Manufacturing,77169.02,Proposal Sent,Outbound,4,160,0.87,1.83,Yes,25,11
+EMEA5,EMEA,IoT and edge,Q3 2024,Manufacturing,17469.36,Closed-Won,Inbound,5,100,0.67,81.2,Yes,40,2
+EMEA9,EMEA,IoT and edge,Q1 2024,Education,14295.39,Closed-Lost,Referral,5,153,0.25,38.82,No,30,6
+NA1,North America,Developer Tools,Q4 2024,Education,38955.49,Closed-Won,Outbound,3,23,0.63,32.88,Yes,46,93
+EMEA7,EMEA,Security and Support,Q2 2024,Manufacturing,217938.4,Closed-Lost,Inbound,1,120,0.86,62.09,Yes,15,75
